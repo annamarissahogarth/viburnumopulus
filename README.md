@@ -18,7 +18,6 @@ Why was the guelder rose (_Viburnum opulus_) plant featured on such a prominent 
 <param ve-entity eid="Q863759">
 <param ve-map title="Independence Square, Kyiv, Ukraine" center="50.45078729260635, 30.522990497009793" zoom="14”>
 
-Hello?? THIS PARAGRAPH IS NOT SHOWING UP
 The guelder rose, a subtle addition to this landscape, not only stands for continued nationhood in Berehynia’s hands, but is sung about and referenced in other Ukrainian settings today. The little flowering plant has a mighty story of resistance and resilience for Ukraine, especially as the country fights to maintain independence from Russia. Do I need to add more text? More text? More text? 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9a/Viburnum_opulus_Sturm43.jpg" fit="contain" title="Viburnum opulus" attribution="Wikimedia Commons" license="public domain">
 
