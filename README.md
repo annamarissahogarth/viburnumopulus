@@ -22,7 +22,6 @@ The guelder rose, a subtle addition to this landscape, not only stands for conti
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9a/Viburnum_opulus_Sturm43.jpg" fit="contain" title="Viburnum opulus" attribution="Wikimedia Commons" license="public domain">
 
 ### Which is more prized? The berries or the flower? 
-
 The Viburnum is most acknowledged in eastern Europe for its red berries, which are striking in wintertime. In Ukraine, the red berries are embedded into its name. “Chervona kalyna,” the folksong that became an unofficial Ukrainian national anthem, translates to “red viburnum,” which emphasizes the red color of the berries more than the white flower. In fact, the word kalyna is rarely spoken by itself, but instead usually "chervona kalyna.” It is the leaves with the berries, rather than the blossoms, that are the important symbol in Ukrainian culture.
 
 Viburnum opulus is called kalyna, or калина обыкновенная, in Russian. In Old Russian, the word for red is “krasni” while the modern word for beautiful is “krasivi.” Generally, things that are red are elevated in status, and many revered landscapes in Russia contain the word “red” in their name: the Red Square, one of the most important sites of Moscow; the red corner full of Orthodox icons, and red easter eggs. Therefore, the red berries of the viburnum are etymologically related to beauty and elevated status. 
