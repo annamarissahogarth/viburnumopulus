@@ -12,17 +12,14 @@ When Russia invaded Ukraine in 2022, Oleksandr Nikoryak, director of the Departm
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/01/%D0%9A%D0%B8%D1%97%D0%B2_%D0%9C%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82_%D0%9D%D0%B5%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96_4.jpg" fit="contain" title="At the columned base are marble steps, and from the base stands a tall marble column. The female figure is named Berehynia, a folkloric female spirit associated with the protection of home or homeland" attribution="Wikimedia Commons" license="public domain">
 <param ve-entity eid="Q3917633">
 <param ve-entity eid="Q2622635">
-{#paragraph1}
 
 Why was the guelder rose (_Viburnum opulus_) plant featured on such a prominent monument? The plant, also called _kalyna_ in Ukrainian and Russian, is an important symbol and loved cultural plant in both nations. For Ukraine, it represents independence and fits right into the location where the Independence Monument stands: the Maidan Square. This square, in the center of Kyiv, also called “Maidan Nezalezhnosti,” a central space with a long history of civic and political action. It was at this square where students revolted in 1905 and 1917. The Revolution on Granite in 1990, protests in 2000, Orange Revolution in 2004, and Euromaidan in 2013 also took place at this square.
 <param ve-entity eid="Q156928">
 <param ve-entity eid="Q863759">
 <param ve-map title="Independence Square, Kyiv, Ukraine" center="50.45078729260635, 30.522990497009793" zoom="14”>
-{#paragraph2}
 
 The guelder rose, a subtle addition to this landscape, not only stands for continued nationhood in Berehynia’s hands, but is sung about and referenced in other Ukrainian settings today. The little flowering plant has a mighty story of resistance and resilience for Ukraine, especially as the country fights to maintain independence from Russia. Do I need to add more text? More text? More text? 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9a/Viburnum_opulus_Sturm43.jpg" fit="contain" title="Viburnum opulus" attribution="Wikimedia Commons" license="public domain">
-{#paragraph3}
 
 ### Which is more prized? The berries or the flower? 
 The Viburnum is most acknowledged in eastern Europe for its red berries, which are striking in wintertime. In Ukraine, the red berries are embedded into its name. “Chervona kalyna,” the folksong that became an unofficial Ukrainian national anthem, translates to “red viburnum,” which emphasizes the red color of the berries more than the white flower. In fact, the word kalyna is rarely spoken by itself, but instead usually "chervona kalyna.” It is the leaves with the berries, rather than the blossoms, that are the important symbol in Ukrainian culture.
