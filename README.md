@@ -38,6 +38,9 @@ On the other hand, the English names for the viburnum emphasize its white puffy 
 botanical flowers section, oak spring, etc. here
 
 ### For Russia, A Symbol of Beauty and Doom
+In Russian folk tradition, the red color of fire and of the kalyna’s berries become a symbol of beauty, and together with the sweetness of raspberries (called malina), they serve as a symbol of love. Later, the viburnum and raspberries represented a beautiful maiden, someone who represents passionate love. One folk song, titled “Kalinka,” a diminutive of of kalyna, the lyrics start: “Kalinka, kalinka, kalinka, my sweet/beauty berry in the garden malinka/my sweet, eh.” Russian folk culture even has a phrase, [kalina krasnaya](https://en.wikipedia.org/wiki/Kalina_krasnaya), common in folksongs and contemporary songs, which represents love, passion, beauty, and even sadness and grief. 
+<param ve-iframe src="https://archive.org/details/russianfolksongs0000prok/page/148/mode/2up?q=kalina&view=theater">
+
 The 1974 iconic movie [The Red Snowball Tree](https://en.wikipedia.org/wiki/The_Red_Snowball_Tree), or Калина красная (Kalina Krasnaya), also has subtle hints toward the plant. In this highest-grossing Soviet film of all time, the protagonist named Yegor Prokudin has just been released from prison and must make a new life for himself in the countryside where viburnum bushes also grow. However, the color of the red viburnum berries hint at a bloody or wounded future for Yegor, and the bitterness of the berries symbolize the tragedy of love and sudden death. In all, because the hero does get shot and both he and his lover die at the end of the film, the viburnum references that the hero of this film was always doomed.
 <param ve-video vid="a-RLbCXVvwI">
 
