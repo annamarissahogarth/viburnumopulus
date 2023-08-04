@@ -7,8 +7,8 @@
        author="Anna Hogarth, Nidhish Birhade, and Matt Turetsky"
        layout="vertical">
 
-### Hook
-text
+### A monumental moment for Ukraine
+When Russia invaded Ukraine in 2022, Oleksandr Nikoryak, director of the Department of Cultural Heritage Protection of the Kyiv City State Administration, worked to protect a symbolic monument of Ukrainian freedom from being destroyed by bombings. However, the Independence Monument, at 40 meters high, was simply too tall, and it would be too expensive to take down, so the monument was removed from protected lists. Now, as conflict continues between the two nations, the female figure continues to stand on top: a maidan named Berehynia -the orante or blessed mother of Ukraine- with arms raised, holding the branch of the guelder rose bush. 
 
 ### Scientific Background
 
