@@ -18,16 +18,18 @@ Why was the guelder rose (_Viburnum opulus_) plant featured on such a prominent 
 <param ve-entity eid="Q863759">
 <param ve-map title="Independence Square, Kyiv, Ukraine" center="50.45078729260635, 30.522990497009793" zoom="14”>
 
-Hello??
+Hello?? THIS PARAGRAPH IS NOT SHOWING UP
 The guelder rose, a subtle addition to this landscape, not only stands for continued nationhood in Berehynia’s hands, but is sung about and referenced in other Ukrainian settings today. The little flowering plant has a mighty story of resistance and resilience for Ukraine, especially as the country fights to maintain independence from Russia. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9a/Viburnum_opulus_Sturm43.jpg" fit="contain" title="Viburnum opulus" attribution="Wikimedia Commons" license="public domain">
 
-### Scientific Background
+### Morphology, botany, and medicinal uses
 
-Morphology section
+The Viburnum is most acknowledged in eastern Europe for its red berries, which are striking in wintertime. In Ukraine, the red berries are embedded into the name. “Chervona kalyna,” the folksong that became an unofficial Ukrainian national anthem, translates to “red viburnum,” which emphasizes the red color of the berries more than the white flower. In fact, the word kalyna is rarely spoken by itself, but instead usually "chervona kalyna.” It is the leaves with the berries, rather than the blossoms, that are the important symbol in Ukrainian culture.
 
-Botany of flowers section
+On the other hand, the English names for the viburnum emphasize its white puffy flowers. Language of Flower books from the 1800s, meant to spread awareness about flowers to general audiences, named the viburnum “snowball.” Language of Flower books were a popular literary trend in the 19th Century. Authors would present the world of botany through dictionaries of flowers and their sentimental meanings, floral poetry, and prose. The guelder rose is represented in many of these works which were usually published in London, England. 
 <param ve-iframe src="https://archive.org/details/floralemblems00philrich/page/325/mode/2up?view=theater">
+
+botanical flowers section, oak spring, etc. here
 
 ### For Russia, A Symbol of Beauty and Doom
 The 1974 iconic movie [The Red Snowball Tree](https://en.wikipedia.org/wiki/The_Red_Snowball_Tree), or Калина красная (Kalina Krasnaya), also has subtle hints toward the plant. In this highest-grossing Soviet film of all time, the protagonist named Yegor Prokudin has just been released from prison and must make a new life for himself in the countryside where viburnum bushes also grow. However, the color of the red viburnum berries hint at a bloody or wounded future for Yegor, and the bitterness of the berries symbolize the tragedy of love and sudden death. In all, because the hero does get shot and both he and his lover die at the end of the film, the viburnum references that the hero of this film was always doomed.
