@@ -13,10 +13,13 @@ When Russia invaded Ukraine in 2022, Oleksandr Nikoryak, director of the Departm
 <param ve-entity eid="Q3917633">
 <param ve-entity eid="Q2622635">
 
-Why was the guelder rose (_Viburnum opulus_) plant featured on such a prominent monument? The plant, also called _kalyna_ in Ukrainian and Russian, is an important symbol and loved cultural plant in both nations. For Ukraine, it represents independence and fits right into the location where the Independence Monument stands: the Maidan Square. This square, in the center of Kyiv, also called “Maidan Nezalezhnosti,” a central space with a long history of civic and political action. It was at this square where students revolted in 1905 and 1917. The Revolution on Granite in 1990, protests in 2000, Orange Revolution in 2004, and Euromaidan in 2013 also took place at this square. The guelder rose, a subtle addition to this landscape, not only stands for continued nationhood in Berehynia’s hands, but is sung about and referenced in other Ukrainian settings today. The little flowering plant has a mighty story of resistance and resilience for Ukraine, especially as the country fights to maintain independence from Russia. 
+Why was the guelder rose (_Viburnum opulus_) plant featured on such a prominent monument? The plant, also called _kalyna_ in Ukrainian and Russian, is an important symbol and loved cultural plant in both nations. For Ukraine, it represents independence and fits right into the location where the Independence Monument stands: the Maidan Square. This square, in the center of Kyiv, also called “Maidan Nezalezhnosti,” a central space with a long history of civic and political action. It was at this square where students revolted in 1905 and 1917. The Revolution on Granite in 1990, protests in 2000, Orange Revolution in 2004, and Euromaidan in 2013 also took place at this square.
 <param ve-entity eid="Q156928">
 <param ve-entity eid="Q863759">
 <param ve-map title="Independence Square, Kyiv, Ukraine" center="50.45078729260635, 30.522990497009793" zoom="14”>
+
+The guelder rose, a subtle addition to this landscape, not only stands for continued nationhood in Berehynia’s hands, but is sung about and referenced in other Ukrainian settings today. The little flowering plant has a mighty story of resistance and resilience for Ukraine, especially as the country fights to maintain independence from Russia. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9a/Viburnum_opulus_Sturm43.jpg" fit="contain" title="At the columned base are marble steps, and from the base stands a tall marble column. The female figure is named Berehynia, a folkloric female spirit associated with the protection of home or homeland" attribution="Wikimedia Commons" license="public domain">
 
 ### Scientific Background
 
