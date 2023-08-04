@@ -7,16 +7,24 @@
        author="Anna Hogarth, Nidhish Birhade, and Matt Turetsky"
        layout="vertical">
 
-### A monumental moment for Ukraine
-When Russia invaded Ukraine in 2022, Oleksandr Nikoryak, director of the Department of Cultural Heritage Protection of the Kyiv City State Administration, worked to protect a symbolic monument of Ukrainian freedom from being destroyed by bombings. However, the Independence Monument, at 40 meters high, was simply too tall, and it would be too expensive to take down, so the monument was removed from protected lists. Now, as conflict continues between the two nations, the female figure continues to stand on top: a maidan named Berehynia -the orante or blessed mother of Ukraine- with arms raised, holding the branch of the guelder rose bush. 
+### Some title here
+When Russia invaded Ukraine in 2022, Oleksandr Nikoryak, director of the Department of Cultural Heritage Protection of the Kyiv City State Administration, worked to protect a symbolic monument of Ukrainian freedom from being destroyed by bombings. However, the Independence Monument, at 40 meters high, was simply too tall, and it would be too expensive to take down, so the monument was removed from protected lists. Now, as conflict continues between the two nations, the female figure continues to stand on top: a maidan named Berehynia -the orante or blessed mother of Ukraine- with arms raised, holding the branch of the _guelder rose_ bush. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/01/%D0%9A%D0%B8%D1%97%D0%B2_%D0%9C%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82_%D0%9D%D0%B5%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D1%96_4.jpg" fit="contain" title="At the columned base are marble steps, and from the base stands a tall marble column. The female figure is named Berehynia, a folkloric female spirit associated with the protection of home or homeland" attribution="Wikimedia Commons" license="public domain">
 <param ve-entity eid="Q3917633">
+<param ve-entity eid="Q2622635">
+
+Why was the guelder rose (_Viburnum opulus_) plant featured on such a prominent monument? The plant, also called _kalyna_ in Ukrainian and Russian, is an important symbol and loved cultural plant in both nations. For Ukraine, it represents independence and fits right into the location where the Independence Monument stands: the Maidan Square. This square, in the center of Kyiv, also called “Maidan Nezalezhnosti,” a central space with a long history of civic and political action. It was at this square where students revolted in 1905 and 1917. The Revolution on Granite in 1990, protests in 2000, Orange Revolution in 2004, and Euromaidan in 2013 also took place at this square. The guelder rose, a subtle addition to this landscape, not only stands for continued nationhood in Berehynia’s hands, but is sung about and referenced in other Ukrainian settings today. The little flowering plant has a mighty story of resistance and resilience for Ukraine, especially as the country fights to maintain independence from Russia. 
+<param ve-entity eid="Q156928">
+<param ve-entity eid="Q863759">
+
 ### Scientific Background
 
 Morphology section
 
 Botany of flowers section
 <param ve-iframe src="https://archive.org/details/floralemblems00philrich/page/325/mode/2up?view=theater">
+
+
 
 ### Guelder Rose and the War in Ukraine
 On February 27, 2022, an Instagram video of Ukrainian rock singer Andriy Khlyvniuk in military fatigues singing a capella went viral and the Guelder Rose became fundamental to Ukrainian identity once again. The video went viral only a few days after Russia invaded Ukraine in 2022. The song was “Oi u luzi chervona kalyna” (“Oh, the Red Viburnum in the Meadow),  originally a folk song from the seventeenth century that became associated with the Legion of Ukrainian Sich Riflemen Ukrainian riflemen, a unit within the Austro-Hungarian army during World War I. It continued to be a song of national pride for Ukrainians under the Soviet Union, which prohibited the song since it was deemed too nationalistic and tied to struggles for Ukrainian independence. In the song, the Guelder Rose functions as a symbol for all of Ukraine. The first lyric of the song reads: “Oh, in the meadow a red kalyna has bent down low, / For some reason, our glorious Ukraine is in sorrow.” In a later verse, the song continues: “Marching forward, our fellow volunteers, into a bloody fray, / For to free our brother Ukrainians from the Moscovite shackles.”
