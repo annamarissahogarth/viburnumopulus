@@ -26,7 +26,7 @@ Botany of flowers section
 <param ve-iframe src="https://archive.org/details/floralemblems00philrich/page/325/mode/2up?view=theater">
 
 ### For Russia, A Symbol of Beauty and Doom
-The 1974 iconic movie [The Red Snowball Tree] (https://en.wikipedia.org/wiki/The_Red_Snowball_Tree), or Калина красная (Kalina Krasnaya), also has subtle hints toward the plant. In this highest-grossing Soviet film of all time, the protagonist named Yegor Prokudin has just been released from prison and must make a new life for himself in the countryside where viburnum bushes also grow. However, the color of the red viburnum berries hint at a bloody or wounded future for Yegor, and the bitterness of the berries symbolize the tragedy of love and sudden death. In all, because the hero does get shot and both he and his lover die at the end of the film, the viburnum references that the hero of this film was always doomed.
+The 1974 iconic movie [The Red Snowball Tree](https://en.wikipedia.org/wiki/The_Red_Snowball_Tree), or Калина красная (Kalina Krasnaya), also has subtle hints toward the plant. In this highest-grossing Soviet film of all time, the protagonist named Yegor Prokudin has just been released from prison and must make a new life for himself in the countryside where viburnum bushes also grow. However, the color of the red viburnum berries hint at a bloody or wounded future for Yegor, and the bitterness of the berries symbolize the tragedy of love and sudden death. In all, because the hero does get shot and both he and his lover die at the end of the film, the viburnum references that the hero of this film was always doomed.
 <param ve-video vid="a-RLbCXVvwI">
 
 ### Guelder Rose and the War in Ukraine
