@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="The Guelder Rose: A National Unifier in Eastern Europe...?"
-       author="Anna Hogarth, Nidhish Birhade, and Matt Turetsky"
+       author="Anna Hogarth, Nidhish Birhade, and Matthew Turetsky"
        layout="vertical">
 
 ### Some title here
