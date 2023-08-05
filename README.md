@@ -3,7 +3,7 @@
 <param ve-config 
        title="The Guelder Rose: A National Unifier in Eastern Europe...?"
        author="Anna Hogarth, Nidhish Birhade, and Matthew Turetsky"
-       banner="https://upload.wikimedia.org/wikipedia/commons/b/b6/Santorin_%28GR%29%2C_Exomytis%2C_Vlychada_Beach_--_2017_--_2999_%28bw%29.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/e/e8/Viburnum_opulus_%28Guelder_Rose%29_-_Flickr_-_S._Rae.jpg"
        layout="vertical">
 
 ### Some title here
