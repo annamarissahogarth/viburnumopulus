@@ -15,7 +15,7 @@ When Russia invaded Ukraine in 2022, Oleksandr Nikoryak, director of the Departm
 Why was the guelder rose (_Viburnum opulus_) plant featured on such a prominent monument? The plant, also called _kalyna_ in Ukrainian and Russian, is an important symbol and loved cultural plant in both nations. For Ukraine, it represents independence and fits right into the location where the <span data-mouseover-map-flyto="50.449486986444576, 30.525408954596692,14">Independence Monument stands: the Maidan Square.</span> This square, in the center of Kyiv, also called “Maidan Nezalezhnosti,” a central space with a long history of civic and political action. It was at this square where students revolted in 1905 and 1917. The Revolution on Granite in 1990, protests in 2000, Orange Revolution in 2004, and Euromaidan in 2013 also took place at this square. The guelder rose, a subtle addition to this landscape, not only stands for continued nationhood in Berehynia’s hands, but is sung about and referenced in other Ukrainian settings today. The little flowering plant has come to represent Ukrainian loyalty, homeland, struggle, struggle, and even protest and it joins the fight for Ukrainian resilience, especially as the country fights to maintain independence from Russia.
 <param ve-entity eid="Q156928">
 <param ve-entity eid="Q863759">
-<.ve-map 50.45078729260635, 30.522990497009793 10 width=50%
+<param ve-map center="50.45078729260635, 30.522990497009793" zoom="6"
     - 50.45078729260635, 30.522990497009793 "Independence Monument, Ukraine">
 
 ### Which is more prized? The berries or the flower? 
