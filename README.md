@@ -26,8 +26,10 @@ In Ukraine, the red berries are embedded into its name. “Chervona kalyna,” t
 On the other hand, the English names for the viburnum emphasize its white puffy flowers. Language of Flower books, a popular British literary trend in the 19th Centuy meant to spread awareness about flowers to general audiences, named the viburnum “snowball.” Authors would present the world of botany through dictionaries of flowers and their sentimental meanings, floral poetry, and prose. The guelder rose is represented in many of these works as symbolic of old age, purity, or even the white bosom of Venus.
 <param ve-iframe src="https://archive.org/details/floralemblems00philrich/page/325/mode/2up?view=theater">
 
-botanical flowers section, oak spring, etc. here
-<param ve-image label="Red easter eggs, the color meant to symbolize Christ’s resurrection" description="Photograph" license="public domain" url="https://drive.google.com/file/d/1L0HM8c44ClWq2t8dBcm8-d4zFTeBDmFS/view?usp=sharing">
+While only occasionally, the viburnum did enter the context of global botanical trade. In 1773 botanical book _Eden: Or A Compleat Body Of Gardening,_ J. Hill M.D. describes the viburnum in the context of raising flowers according to the English, French, and Dutch. Illustrators of English and French botanical books portrayed the plant through its flowers, usually forgetting to include depictions of its red berries. Overall, botanists and individuals collecting herbarium specimens of the viburnum had the option to highlight the white flowers, red berries, or in some cases, both.
+<param ve-compare sync label="look at this big masterpiece" description="Photograph" license="public domain" url="https://plants-jstor-org.amherst.idm.oclc.org/seqapp/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=/jp2/fpx/alukaplant/abfm/phase_01/abfm0003/abfm00493.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=3&svc.rotate=0&svc.region=0,0,616,453">
+<param ve-compare label="seashell woman" description="Photograph" license="public domain" url="https://plants-jstor-org.amherst.idm.oclc.org/seqapp/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=/jp2/fpx/alukaplant/abfm/phase_01/abfm0008/abfm00488.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=3&svc.rotate=0&svc.region=0,0,627,444">
+
 
 
 ### For Russia, A Symbol of Beauty and Doom
