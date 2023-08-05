@@ -50,7 +50,7 @@ In Ukraine, it would be difficult to find a village house where there is not at 
 <param ve-entity eid="Q110319947">
 
 In 2022, back in Independence square under the maidan holding the golden guelder rose branch, a woman named Varvara Logvyn was found painting red berries in the Petrykivka style along the steel antitank obstacles lining the square. She was inspired to paint the kalyna plant because of a famous pro-Ukraine patriotic song, “Oh, the Red Viburnum in the Meadow." She says of her work, “my way to talk with the world about Ukraine, about our war, about our values. We have to defend our culture. Culture is the basis of a nation, and [Petrykivka painting] shows that Ukraine is very bright.” She sure remained faithful to the folk art techniques, painting with brushes made from cat and squirrel hair and making sure to paint certain strokes in the same direction even while crouched between steel fortifications.
-<param ve-image url="https://www.instagram.com/p/CiFt37BNN74/?img_index=1"  " fit="contain" title="Petrykivka painting" attribution="Wikimedia Commons" license="public domain">
+<param ve-video vid="a-RLbCXVvwI">
 
 Ukrainian folksongs and folktales speak of the kalyna bush in ways that promote nostalgia for homeland. Many song genres, including ballads, lyrical, spring, harvest, wedding, soldiers’ and shooting songs, speak of the viburnum. They can be humorous and satirical as well, and numerous folksongs compare a chervona kalyna to a beautiful maiden. One Ukrainian harvest song begins, “Oh! nightingale, come down, / Come down from the guelder-rose / Come back, Oh ! my beloved, From Ukraine Home.”
 
