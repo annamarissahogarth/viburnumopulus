@@ -83,7 +83,7 @@ initial-zoom="1"
 height="750">
 <param ve-entity eid="Q1048315">
 
-### Plants, Music, and Nationalism and Nationalism
+### Plants, Music, and Nationalism
 Along with being a prominent symbol in Ukrainian and Russian folklore, literature, and film, the guelder rose has a centuries long history in music. Chervona Kalyna, the Ukrainian military song made famous once again in recent years, has become a rallying cry in support of the Ukrainian army against Russia’s invasion.[^6] Since the Instagram video went viral, music groups from many different backgrounds have furthered the song’s reach. The band of the Air Force of the Armed Forces of Ukraine  performed the song in a style that juxtaposes beautiful choral voices with the visual imagery of powerful military forces.The song has had international reach, too. The American rock band Pink Floyd covered the song and published a music video in support of the Ukrainian army. Through song, guelder rose has become a unifying force of Ukrainian nationalism and support.
 <param ve-video vid="ZkMKYPWWmSY" fit="contain">
 
