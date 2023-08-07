@@ -17,10 +17,72 @@ Why was the guelder rose (_Viburnum opulus_) plant featured on such a prominent 
 <param ve-entity eid="Q863759">
 <param ve-map title="Independence Square, Kyiv, Ukraine" center="50.45078729260635, 30.522990497009793" zoom="6”>
 
-### Which is more prized? The berries or the flower? 
-Insert Nidhish's paragraphs.  (hover mouse over image to compare)
+### Prehistoric Roots 
+
+The guelder-rose has a long-standing relationship with human settlements and culture. This begins all the way from the prehistoric period: Tybrind Vig, a late Mesolithic coastal settlement of the Ertebølle culture, dated to about 5600-4000 BC, was found to have charred remains of guelder rose seeds. Since the berries have to be cooked prior to eating, this shows that the guelder rose berries were consumed at the site. Clusters of guelder rose seeds were also found lying at Clonava-1, an island site at Lake Derravagh, present-day Co. Westmeath, Ireland, which is a remnant of the mesolithic Larnian culture ( ). Since these seeds were found to be uncharred, it is possible this shows their collection prior to being prepared for consumption. Doel Sector M, a Swifterbant site dated to the late mesolithic-early neolithic transition period (ca. 4600—4000 B.C.), located in present-day Northwest Belgium, shows remains of guelder-rose berries and seeds as well ( ). 
+<param ve-entity eid="Q11756">
+<param ve-entity eid="Q103971144">
+<param ve-entity eid="Q44155">
+<param ve-entity eid="Q1362485">
+<param ve-entity eid="Q4410983">
+<param ve-entity eid="Q36422">
+
+
+More than just consumption, however, the Guelder Rose found other uses in later periods of prehistory. Greeneenagh, a fulacht fiadt dated to the Bronze Age, was a site used for food preparation. The silty-clay trough at the site—which was used for heating water by fire-reddened stones, which in turn were heated by burning wood—contained wooden charcoal that was identified as being from the Guelder Rose Tree, the wood dating to a time range of 791-419 BC ( ). 
+<param ve-entity eid="Q3778145">
+<param ve-entity eid="Q11761">
+
+
+As the prehistoric data shows, the Guelder Rose is native to the paleoarctic, and it has been used for varied purposes for millennia in regions of Europe. Today, the guelder rose has been introduced to a much wider range. As it moves across boundaries of culture, time, and geography, the Guelder Rose takes on new significations and meanings—some of which seem entirely contradictory, but each is still tied intrinsically to the plant’s morphology. 
+<param ve-entity eid="Q106447">
+
+
+### Resisting Classification: Taxonomy & Nomenclature 
+
+The Guelder Rose seems to elude precise classification. Taxonomically, it belongs to the Viburnum Genus, a clade of flowering plants that consists of shrubs and small trees. The Guelder-Rose was initially placed in the Caprifoliaceae family, commonly known as the Honeysuckle family, which is popularly known for its species that have the status of being invasive in their introduced habitats. However, the Guelder-Rose was reclassified by the Angiosperm Phylogeny Group in 2009 to being part of the Adoxaceae family ( ). 
+<param ve-entity eid="Q34740">
+<param ve-entity eid="Q156301">
+<param ve-entity eid="Q156047">
+<param ve-entity eid="Q156677">
+
 <param ve-compare curtain label="slide mouse to compare" description="Photograph" license="public domain" url="https://plants-jstor-org.amherst.idm.oclc.org/seqapp/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=/jp2/fpx/alukaplant/abfm/phase_01/abfm0003/abfm00493.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=3&svc.rotate=0&svc.region=0,0,616,453">
 <param ve-compare label="slide mouse to compare" description="Photograph" license="public domain" url="https://plants-jstor-org.amherst.idm.oclc.org/seqapp/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=/jp2/fpx/alukaplant/abfm/phase_01/abfm0008/abfm00488.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=3&svc.rotate=0&svc.region=0,0,627,444">
+
+
+This seeming confusion spills into the plant’s nomenclature as well: the term Guelder Rose itself is a misnomer, since the plant is not a rose. Simultaneously, the word Guelder gestures to the Gelderland region of the Netherlands, but the plant has no significant relationship of origin or importance to the region [ ]. The plant is also called the European guelder, water elder, rose elder, Rose Ebru, cherry-wood, crampbark, and as gilaburu in Turkey. Other names of the plant include Cranberry Bush and Snowball Tree—but both of these confound more than they explain, since the plant is not a Cranberry, and the Snowball is only a single cultivar of it. Its scientific name, Viburnum Opulus, has a similar confusion: Viburnum is Latin for the wayfaring tree [ ], and Opulus is Latin for the maple tree [ ]. These other plants are used to signify the Guelder Rose, but its own individuality seems almost slippery. In Ukrainian, Russian, and Polish—the regions where the plant is highly commonplace and holds key symbolic power—it is called Kalyna.
+<param ve-entity eid="Q775">
+
+
+V B Smocovitis notes that the first recorded use of the term evolutionary biology is in relation to the Guelder-Rose[ ] by the naturalist Grant Allen—in his 1881 text Vignettes from Nature, Allen speaks about the “self-same odd, outgrown outer flowers” of the guelder-rose that make it extremely fascinating for the field of evolutionary biology. These outer flowers, Allen writes, look like the petals of another plant “deftly arranged or pinned by some mischievous boy” onto the plant in order “to hoax the unwary botanist with a cunning deception”. The form of the guelder-rose is compared to a mystery, as if a trick is being played on the botanist attempting to study it. 
+<param ve-entity eid="Q840400">
+<param ve-iframe src="https://archive.org/details/vignettesfromnat00alleuoft/page/92/mode/2up?view=theater">
+
+
+### Morphology: Flower & Fruit 
+
+The trick of the guelder-rose lies in its morphology: the white flowers that it is known for are actually sterile and serve the purpose of attracting pollinators to the smaller flowers that lie at the center of the inflorescence. The difference in size between these flowers—the larger ones are about 1.5-2.5cm in diameter, while the fertile ones are 4-5mm only ( )—could explain why the sterile flowers capture the imagination of the viewer. It is also to be noted that the guelder-rose flower has an “unpleasant, rather sickly smell” ( ), which means that its white flower must ensure that insects are visually driven to the fertile inner flowers so they can bloom into red berries and the plant can reproduce. The Guelder-Rose is often represented through its widely grown cultivator the ‘Roseum’, which gives the plant its name Snowball. This cultivar consists of only the sterile flowers (1045), which means that the inflorescence becomes a striking ball of white petals, but that it cannot reproduce without human intervention. 
+<param ve-entity eid="Q156428">
+[visualtion: marked images of flower]
+
+
+Just as the guelder-rose flower has a strange smell, the fruit is known to have a bitter taste due to the presence of saponin glycosides and slightly toxic viburnine ( ). For human consumption, it is usually either cooked or frozen before eating. The berries bloom ripen in fall, but they remain on the shoots through the winter season. This is because of the fact that seed dispersers that are integral to the plant’s reproduction are averse to its taste. The bright red berries of the guelder rose that persist through most of the winter is a powerful image, one which could signal how the interplay of the plant’s reproductive clock and the seasonal transformation of the landscape̦ could produce cultural signification—the red fruits must stand out as distinct symbols set against the white snow of winter, particularly in regions with colder winters such as Ukraine and Russia. 
+<param ve-entity eid="Q207653">
+
+[image; guelder rose in winter]
+
+The aversion of frugivore birds to the bitter guelder-rose berry, however, has its limits. As other fruit sources deplete through the winter, some birds such as the bullfinches act as seed predators—they discard the pulp and fruitskin and proceed to chew the fruit stone, split it in the middle, and then ingest the seed, which means the seed is destroyed (505). 
+<param ve-entity eid="Q16251302">
+
+[image: bullfinch]
+
+The primary seed dispersal agents of the Guelder Rose are the Cedar Waxwing in North America and the Bohemian Waxwing in the Paleoarctic, its natal range ( ). Unlike seed predators like the bullfinch, the waxwing swallows the fruit as a whole, which means that the seed is left intact after consumption. The plant and the bird thus have a unique mutualistic relationship ( ).
+[images: the waxwings]
+
+However, the waxwing has an unpredictable migration pattern–it does not arrive at the same locations each year ( ). In those years when the waxwing does not disperse the seed, most of them are lost to seed destroyers. Englund notes, however, that “the frequently low dispersal potential of V. opulus because of heavy seed predation is compensated by sporadic massive dispersal by waxwings in certain favourable years. The plant apparently exhibits a costly bet-hedging seed-dispersal strategy” [ ]. In the face of the threat of seed destruction, the Guelder Rose produces as many fruits as it can. In the years when the waxwing does not migrate to the plant’s range, most of these seeds are lost. However, in the years that the waxwing comes, the plant’s bet is successful—the possibility of new growth is made possible by the hope of the bird’s arrival at the end of winter. 
+[image: g ]
+
+
+### Which is more prized? The berries or the flower? 
 
 In Ukraine, the red berries are embedded into its name. “Chervona kalyna,” the folksong that became an unofficial Ukrainian national anthem, translates to “red viburnum,” which emphasizes the red color of the berries more than the white flower. In fact, the word kalyna is rarely spoken by itself, but instead usually "chervona kalyna.” It is the leaves with the berries, rather than the blossoms, that are the important symbol in Ukrainian culture.[^14] _Viburnum opulus_ is called kalyna, or калина обыкновенная, in Russian. In Old Russian, the word for red is “krasni” while the modern word for beautiful is “krasivi.” Generally, things that are red are elevated in status, and many revered landscapes in Russia contain the word “red” in their name: the Red Square, one of the most important sites of Moscow; the red corner full of Orthodox icons, and red easter eggs.[^15] Therefore, the red berries of the viburnum are etymologically related to beauty and elevated status. 
 <param ve-image label="The Red Square in Moscow" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/6/62/00_0623_Red_Square_in_Moscow.jpg">
@@ -28,7 +90,7 @@ In Ukraine, the red berries are embedded into its name. “Chervona kalyna,” t
 <param ve-image label="Red easter eggs, the color meant to symbolize Christ’s resurrection" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/6/69/Easter_eggs2.jpg">
 <param ve-entity eid="Q41116">
 
-On the other hand, the English names for the viburnum emphasize its white puffy flowers. Language of Flower books, a popular British literary trend in the 19th Centuy meant to spread awareness about flowers to general audiences, named the viburnum “snowball.” Authors would present the world of botany through dictionaries of flowers and their sentimental meanings, floral poetry, and prose. The guelder rose is represented in many of these works as symbolic of old age, purity, or even the white bosom of Venus.[^16]
+On the other hand, the English names for the viburnum emphasize its white puffy flowers. Language of Flower books, a popular British literary trend in the 19th Century meant to spread awareness about flowers to general audiences, named the viburnum “snowball.” Authors would present the world of botany through dictionaries of flowers and their sentimental meanings, floral poetry, and prose. The guelder rose is represented in many of these works as symbolic of old age, purity, or even the white bosom of Venus.[^16]
 <param ve-iframe src="https://archive.org/details/floralemblems00philrich/page/325/mode/2up?view=theater">
 
 While only occasionally, the viburnum did enter the context of global botanical trade. In 1773 botanical book _Eden: Or A Compleat Body Of Gardening,_ J. Hill M.D. describes the viburnum in the context of raising flowers according to the English, French, and Dutch.[^17] Illustrators of English and French botanical books <span data-mouseover-image-zoomto= "802,45,4014,3487"> portrayed the plant through its flowers,</span> usually forgetting to include depictions of its red berries. Overall, botanists and individuals collecting herbarium specimens of the viburnum had the option to highlight the white flowers, red berries, or in some cases, both.
@@ -94,6 +156,11 @@ The guelder rose, once a frequent symbol in Ukrainian, Russian, and British trad
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8d/Flag_of_the_President_of_Ukraine.svg" fit="contain" title="The official President's Flag of Ukraine. Around the perimeter of the flag is guelder rose ornament." fit="cover" attribution="Wikimedia Commons" license="public domain">
 
 ### References
+[^10]: Volodymyr Khlebnikov, “У КМДА Пояснили, Чому Монумент Незалежності На Майдані Не Захистили Від Можливих Обстрілів - Новини Києва | Big Kyiv,” Великий Київ, April 16, 2022, https://bigkyiv.com.ua/u-kmda-poyasnyly-chomu-monument-nezalezhnosti-na-majdani-ne-zahystyly-vid-mozhlyvyh-obstriliv/.
+[^11]: Roman Cybriwsky, “The Center of Kyiv,” in Kyiv, Ukraine - Revised Edition: The City of Domes and Demons from the Collapse of Socialism to the Mass Uprising of 2013-2014 (Amsterdam University Press, 2016), https://www.jstor.org/stable/j.ctt1b9x2zb.10.
+[^12]: Owen Hatherley, “Architects of Revolt: The Kiev Square That Sparked Ukraine’s Insurrection,” The Guardian, April 8, 2014, sec. Cities, https://www.theguardian.com/cities/2014/apr/08/architects-revolt-kiev-maidan-square-ukraine-insurrection. 
+
+
 [^1]: “How a Ukrainian Folk Song Inspired Pink Floyd to Reform,” _BBC Radio_, [https://www.bbc.co.uk/programmes/articles/KhYB1tcj2qtjVzrxbq9BdY/how-a-ukrainian-folk-song-inspired-pink-floyd-to-reform.](https://www.bbc.co.uk/programmes/articles/KhYB1tcj2qtjVzrxbq9BdY/how-a-ukrainian-folk-song-inspired-pink-floyd-to-reform.)
 [^2]: Lazaro Gamio et al., “How a Rebellion in Russia Unfolded Over 36 Hours,” _New York Times_, June, 24, 2023, [https://www.nytimes.com/interactive/2023/06/24/world/europe/prigozhin-putin-russia.html](https://www.nytimes.com/interactive/2023/06/24/world/europe/prigozhin-putin-russia.html); Politico Magazine, “Just How Much Trouble is Vladimir Putin in?,” _Politico_, June 26, 2023, [https://www.politico.com/news/magazine/2023/06/26/putin-what-comes-next-00103590](https://www.politico.com/news/magazine/2023/06/26/putin-what-comes-next-00103590).
 [^3]: “Biden Administration Announces Additional Security Assistance for Ukraine,” U.S. Department of Defense, July 7, 2023, [https://www.defense.gov/News/Releases/Release/Article/3451570/biden-administration-announces-additional-security-assistance-for-ukraine/](https://www.defense.gov/News/Releases/Release/Article/3451570/biden-administration-announces-additional-security-assistance-for-ukraine/).
@@ -103,9 +170,8 @@ The guelder rose, once a frequent symbol in Ukrainian, Russian, and British trad
 [^7]: Philip Vilas Bohlman, _The Music of European Nationalism: Cultural Identity and Modern History_ (Santa Barbara: ABC-CLIO, 2004), 11.
 [^8]: “Crimea: Six People Fined or Arrested due to Famous Ukrainian Song Being Played During Wedding” _Novaya Gazeta Europe_, September 14, 2022, [https://novayagazeta.eu/articles/2022/09/14/crimea-six-people-fined-or-arrested-due-to-famous-ukrainian-song-being-played-during-wedding-news](https://novayagazeta.eu/articles/2022/09/14/crimea-six-people-fined-or-arrested-due-to-famous-ukrainian-song-being-played-during-wedding-news).
 [^9]: Courtney Bonnell, "Russia Halts Landmark Deal that Allowed Ukraine to Export Grain at Time of Growing Hunger," _AP News_, July 17, 2023, [https://apnews.com/article/russia-ukraine-war-grain-food-security-ba7f9146b745337a1948a964cb30331c](https://apnews.com/article/russia-ukraine-war-grain-food-security-ba7f9146b745337a1948a964cb30331c).
-[^10]: Volodymyr Khlebnikov, “У КМДА Пояснили, Чому Монумент Незалежності На Майдані Не Захистили Від Можливих Обстрілів - Новини Києва | Big Kyiv,” Великий Київ, April 16, 2022, https://bigkyiv.com.ua/u-kmda-poyasnyly-chomu-monument-nezalezhnosti-na-majdani-ne-zahystyly-vid-mozhlyvyh-obstriliv/. 
-[^11]: Roman Cybriwsky, “The Center of Kyiv,” in Kyiv, Ukraine - Revised Edition: The City of Domes and Demons from the Collapse of Socialism to the Mass Uprising of 2013-2014 (Amsterdam University Press, 2016), https://www.jstor.org/stable/j.ctt1b9x2zb.10.
-[^12]: Owen Hatherley, “Architects of Revolt: The Kiev Square That Sparked Ukraine’s Insurrection,” The Guardian, April 8, 2014, sec. Cities, https://www.theguardian.com/cities/2014/apr/08/architects-revolt-kiev-maidan-square-ukraine-insurrection. 
+ 
+
 [^14]: Orysia Tracz, “The Kalyna in Ukrainian Folk Medicine and Folklore,” Prairie Garden, January 1, 2006, 119–23.
 [^15]: Kubilius, “In Russia the Color Red Represents More Than You Know,” ThoughtCo, 2019, https://www.thoughtco.com/red-in-russian-culture-1502319.
 [^16]: Hale, Sarah Josepha Buell. n.d. Flora’s Interpreter, and Fortuna Flora. Revised and Enlarged edition, with New illustrations. Boston: Sanborn, Carter and Bazin. https://www.biodiversitylibrary.org/item/110416.
@@ -123,3 +189,4 @@ Phillips, Henry. n.d. Floral Emblems. London: Saunders and Otley. https://www.bi
 [^26]: Uljana Cholodova, “SYMBOLS AND MYTHOLOGICAL PICTURE OF THE WORLD TROUGH UKRAINIAN FOLK SONGS,” Idil Journal of Art and Language 6, no. 39 (December 20, 2017), https://doi.org/10.7816/idil-06-39-04 p. 3050
 [^27]: Cholodova, 2017.
 [^28]: Katya Chomitzky, “Pandemic, but Make It Fashion: Ukrainian Embroidered PPE in the Time of COVID-19,” Folklorica 24 (2020): 27–50.
+[^ ]: 
