@@ -31,7 +31,7 @@ The guelder-rose has a long-standing relationship with human settlements and cul
        zoom="3"
        title="prehistoric sites with evidence of guelder rose usage"
        >
-<param ve-map-layer geojson "https://raw.githubusercontent.com/annamarissahogarth/viburnumopulus/main/map_prehistoric.json" show-labels>
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/annamarissahogarth/viburnumopulus/main/map_prehistoric.json" show-labels>
        
 
 
