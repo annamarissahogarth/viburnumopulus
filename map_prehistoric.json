@@ -21,9 +21,10 @@
           -7.420011008004994,
           53.6660674709904
         ],
-        "type": "Point"
-        "name: "Clonava-1"
+        "type": "Point",
+        "name": "Clonava-1"
       },
+      "id": 1
     },
     {
       "type": "Feature",
@@ -36,7 +37,7 @@
         "type": "Point",
         "name": "Doel Sector M"
       },
-      "id": 1,
+      "id": 1
     },
     {
       "type": "Feature",
