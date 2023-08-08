@@ -19,18 +19,25 @@ Why was the guelder rose (_Viburnum opulus_) plant featured on such a prominent 
 
 ### Prehistoric Roots 
 
-The guelder-rose has a long-standing relationship with human settlements and culture. This begins all the way from the prehistoric period: Tybrind Vig, a late Mesolithic coastal settlement of the Ertebølle culture, dated to about 5600-4000 BC, was found to have charred remains of guelder rose seeds. Since the berries have to be cooked prior to eating, this shows that the guelder rose berries were consumed at the site. Clusters of guelder rose seeds were also found lying at Clonava-1, an island site at Lake Derravagh, present-day Co. Westmeath, Ireland, which is a remnant of the mesolithic Larnian culture ( ). Since these seeds were found to be uncharred, it is possible this shows their collection prior to being prepared for consumption. Doel Sector M, a Swifterbant site dated to the late mesolithic-early neolithic transition period (ca. 4600—4000 B.C.), located in present-day Northwest Belgium, shows remains of guelder-rose berries and seeds as well ( ). 
+The guelder-rose has a long-standing relationship with human settlements and culture. This begins all the way from the prehistoric period: Tybrind Vig, a late Mesolithic coastal settlement of the Ertebølle culture, dated to about 5600-4000 BC, in present-day Denmark, was found to have charred remains of guelder rose seeds. Since the berries have to be cooked prior to eating, this shows that the guelder rose berries were consumed at the site. Clusters of guelder rose seeds were also found lying at Clonava-1, an island site at Lake Derravagh, present-day Co. Westmeath, Ireland, which is a remnant of the mesolithic Larnian culture ( ). Since these seeds were found to be uncharred, it is possible this shows their collection prior to being prepared for consumption. Doel Sector M, a Swifterbant site dated to the late mesolithic-early neolithic transition period (ca. 4600—4000 B.C.), located in present-day Northwest Belgium, shows remains of guelder-rose berries and seeds as well ( ). 
 <param ve-entity eid="Q11756">
 <param ve-entity eid="Q103971144">
 <param ve-entity eid="Q44155">
 <param ve-entity eid="Q1362485">
 <param ve-entity eid="Q4410983">
 <param ve-entity eid="Q36422">
+<param ve-map basemap="Esri_WorldPhysical"
+       centre="Q46"
+       zoom="2"
+       title="prehistoric sites with evidence of guelder rose usage"
+       >
+       
 
 
 More than just consumption, however, the Guelder Rose found other uses in later periods of prehistory. Greeneenagh, a fulacht fiadt dated to the Bronze Age, was a site used for food preparation. The silty-clay trough at the site—which was used for heating water by fire-reddened stones, which in turn were heated by burning wood—contained wooden charcoal that was identified as being from the Guelder Rose Tree, the wood dating to a time range of 791-419 BC ( ). 
 <param ve-entity eid="Q3778145">
 <param ve-entity eid="Q11761">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/28/Fulacht_Fiadh_at_Drombeg_Stone_Circle_County_Cork%2C_Ireland.jpg" fit="contain" title="a Fulacht Fiadt at Dromberg Stone Circle, Country Cork, Ireland" attribution="Wikimedia Commons" license="public domain">
 
 
 As the prehistoric data shows, the Guelder Rose is native to the paleoarctic, and it has been used for varied purposes for millennia in regions of Europe. Today, the guelder rose has been introduced to a much wider range. As it moves across boundaries of culture, time, and geography, the Guelder Rose takes on new significations and meanings—some of which seem entirely contradictory, but each is still tied intrinsically to the plant’s morphology. 
