@@ -40,9 +40,9 @@ More than just consumption, however, the Guelder Rose found other uses in later 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/28/Fulacht_Fiadh_at_Drombeg_Stone_Circle_County_Cork%2C_Ireland.jpg" fit="contain" title="a Fulacht Fiadt at Dromberg Stone Circle, Country Cork, Ireland" attribution="Wikimedia Commons" license="public domain">
 
 
-As the prehistoric data shows, the Guelder Rose is native to the paleoarctic, and it has been used for varied purposes for millennia in regions of Europe. Today, the guelder rose has been introduced to a much wider range. As it moves across boundaries of culture, time, and geography, the Guelder Rose takes on new significations and meanings—some of which seem entirely contradictory, but each is still tied intrinsically to the plant’s morphology. 
+As the prehistoric data shows, the Guelder Rose is native to the paleoarctic, and it has been used for varied purposes for millennia in regions of Europe. Throughout history, the guelder rose has been introduced to wider ranges of geography. As it moves across boundaries of culture, time, and space, the Guelder Rose takes on new significations and meanings—some of which seem entirely contradictory, but each is still tied intrinsically to the plant’s morphology. 
 <param ve-entity eid="Q106447">
-
+<param ve-map basemap="Esri_WorldPhysical">
 
 ### Resisting Classification: Taxonomy & Nomenclature 
 
