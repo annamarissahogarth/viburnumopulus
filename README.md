@@ -26,7 +26,7 @@ The guelder-rose has a long-standing relationship with human settlements and cul
 <param ve-entity eid="Q1362485">
 <param ve-entity eid="Q4410983">
 <param ve-entity eid="Q36422">
-<param ve-map basemap="Esri_WorldPhysical"
+<param ve-map 
        centre="Q46"
        zoom="3"
        title="prehistoric sites with evidence of guelder rose usage"
