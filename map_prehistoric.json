@@ -6,10 +6,11 @@
       "properties": {},
       "geometry": {
         "coordinates": [
-          30.66065937990342,
-          50.45714801120181
+         9.810635,
+         55.394211
         ],
-        "type": "Point"
+        "type": "Point",
+        "name": "Tybrind Vig"
       }
     },
     {
@@ -17,10 +18,11 @@
       "properties": {},
       "geometry": {
         "coordinates": [
-          37.553796906514435,
-          55.735135013573256
+          -7.420011008004994,
+          53.6660674709904
         ],
         "type": "Point"
+        "name: "Clonava-1"
       },
       "id": 1
     },
@@ -29,10 +31,11 @@
       "properties": {},
       "geometry": {
         "coordinates": [
-          37.553796906514435,
-          55.735135013573256
+          4.251812, 
+          51.285347
         ],
-        "type": "Point"
+        "type": "Point",
+        "name": "Doel Sector M"
       },
       "id": 1
     },
@@ -41,12 +44,12 @@
       "properties": {},
       "geometry": {
         "coordinates": [
-          37.553796906514435,
-          55.735135013573256
+          -8.551325620026535,
+          53.20698674768145
         ],
-        "type": "Point"
-      },
-      "id": 1
+        "type": "Point",
+        "name": "Greeneenagh"
+      }
     }
   ]
 }
