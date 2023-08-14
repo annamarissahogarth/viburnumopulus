@@ -76,7 +76,7 @@ The trick of the guelder-rose lies in its morphology: <span data-mouseover-image
        label="guelder rose flowers"
        description="the white guelder rose flowers"
        license="CC BY-SA 2.0">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Byhlen_Viburnum_opulus_Protaetia_cuprea_05.jpg" label="The Copper Chafer, a pollinator, on the fertile inner flowers" license="CC BY-SA 4.0"
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Byhlen_Viburnum_opulus_Protaetia_cuprea_05.jpg" label="The Copper Chafer, a pollinator, on the fertile inner flowers" license="CC BY-SA 4.0">
 
 The Guelder-Rose is often represented through its widely grown cultivator the ‘Roseum’, which gives the plant its name Snowball. This cultivar consists of only the sterile flowers[^16], which means that the inflorescence becomes a striking ball of white petals, but that it cannot reproduce without human intervention. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/Viburnum_opulus_%27Roseum%27_Kalina_koralowa_odm._p%C5%82onna_2021-06-02_02.jpg" label= "Roseum, sterile cultivar of the Guelder Rose" license="CC BY-SA 4.0">
