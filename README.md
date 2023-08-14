@@ -78,24 +78,22 @@ The trick of the guelder-rose lies in its morphology: <span data-mouseover-image
 
 
 The Guelder-Rose is often represented through its widely grown cultivator the ‘Roseum’, which gives the plant its name Snowball. This cultivar consists of only the sterile flowers[^16], which means that the inflorescence becomes a striking ball of white petals, but that it cannot reproduce without human intervention. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/Viburnum_opulus_%27Roseum%27_Kalina_koralowa_odm._p%C5%82onna_2021-06-02_02.jpg" label= "Roseum, sterile cultivar">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/Viburnum_opulus_%27Roseum%27_Kalina_koralowa_odm._p%C5%82onna_2021-06-02_02.jpg" label= "Roseum, sterile cultivar of the Guelder Rose" license="CC BY-SA 4.0">
 
 
-Just as the guelder-rose flower has a strange smell, the fruit is known to have a bitter taste due to the presence of saponin glycosides and slightly toxic viburnine ( ). For human consumption, it is usually either cooked or frozen before eating. The berries bloom ripen in fall, but they remain on the shoots through the winter season. This is because of the fact that seed dispersers that are integral to the plant’s reproduction are averse to its taste. The bright red berries of the guelder rose that persist through most of the winter is a powerful image, one which could signal how the interplay of the plant’s reproductive clock and the seasonal transformation of the landscape̦ could produce cultural signification—the red fruits must stand out as distinct symbols set against the white snow of winter, particularly in regions with colder winters such as Ukraine and Russia. 
+Just as the guelder-rose flower has a strange smell, the fruit is known to have a bitter taste due to the presence of saponin glycosides and slightly toxic viburnine[^17]. For human consumption, it is usually either cooked or frozen before eating. The berries bloom ripen in fall, but they remain on the shoots through the winter season, because of some seed dispersers that are integral to the plant’s reproduction are averse to its taste. The bright red berries of the guelder rose that persist through most of the winter is a powerful image, one which could signal how the interplay of the plant’s reproductive clock and the seasonal transformation of the landscape̦ come together to produce cultural signification—the red berries must stand out as distinct symbols against the white snow of winter, particularly in regions with colder winters such as Ukraine and Russia. 
 <param ve-entity eid="Q207653">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/66/Viburnum_opulus_180050525.jpg" label="Guelder Rose berries in the snow" license="CC BY-SA 4.0">
 
-[image; guelder rose in winter]
-
-The aversion of frugivore birds to the bitter guelder-rose berry, however, has its limits. As other fruit sources deplete through the winter, some birds such as the bullfinches act as seed predators—they discard the pulp and fruitskin and proceed to chew the fruit stone, split it in the middle, and then ingest the seed, which means the seed is destroyed (505). 
+The aversion of frugivore birds to the bitter guelder-rose berry, however, has its limits. As other fruit sources deplete through the winter, some birds such as the bullfinches act as seed predators—they discard the pulp and fruitskin and proceed to chew the fruit stone, split it in the middle, and then ingest the seed, which means the seed is destroyed [^18]. 
 <param ve-entity eid="Q16251302">
 
-[image: bullfinch]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/89/Leevike_%28Pyrrhula_pyrrhula%29_talvel.jpg" label="The Bullfinch, a seed predator, consuming rowanberries" license="CC BY-SA 4.0">
 
-The primary seed dispersal agents of the Guelder Rose are the Cedar Waxwing in North America and the Bohemian Waxwing in the Paleoarctic, its natal range ( ). Unlike seed predators like the bullfinch, the waxwing swallows the fruit as a whole, which means that the seed is left intact after consumption. The plant and the bird thus have a unique mutualistic relationship ( ).
-[images: the waxwings]
+The primary seed dispersal agents of the Guelder Rose are the Cedar Waxwing in North America and the Bohemian Waxwing in the Paleoarctic, its natal range. Unlike seed predators like the bullfinch, the waxwing swallows the fruit as a whole, which means that the seed is left intact after consumption. The plant and the bird  have a unique "mutualistic relationship" [^19].
 
-However, the waxwing has an unpredictable migration pattern–it does not arrive at the same locations each year ( ). In those years when the waxwing does not disperse the seed, most of them are lost to seed destroyers. Englund notes, however, that “the frequently low dispersal potential of V. opulus because of heavy seed predation is compensated by sporadic massive dispersal by waxwings in certain favourable years. The plant apparently exhibits a costly bet-hedging seed-dispersal strategy” [ ]. In the face of the threat of seed destruction, the Guelder Rose produces as many fruits as it can. In the years when the waxwing does not migrate to the plant’s range, most of these seeds are lost. However, in the years that the waxwing comes, the plant’s bet is successful—the possibility of new growth is made possible by the hope of the bird’s arrival at the end of winter. 
-[image: g ]
+The waxwing has an unpredictable migration pattern–it does not arrive at the same locations each year. In those years when the waxwing does not disperse the seed, most of them are lost to seed destroyers. As a response, the guelder rose takes on a “costly bet-hedging seed-dispersal strategy” [^20]. In the face of the threat of seed destruction, the Guelder Rose produces as many fruits as it can. In the years when the waxwing does not migrate to the plant’s range, most of these seeds are lost. However, in the years that the waxwing comes, the plant’s bet is successful—the possibility of massive new growth is made possible by the hope of the bird’s arrival at the end of winter. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8b/CedarWaxwingeatingberries09.jpg" label="The Cedar Waxwing consuming Guelder Rose berries" license="CC BY-SA 3.0">
 
 
 ### Which is more prized? The berries or the flower? 
@@ -191,6 +189,11 @@ Vīburnum,” n.d. https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:19
 [^14] Allen, Grant. Vignettes from Nature., 1881. https://doi.org/10.5962/bhl.title.25377.
 [^15] Kollmann, Johannes, and Peter J. Grubb. “Viburnum Lantana L. and Viburnum Opulus L. (V. Lobatum Lam., Opulus Vulgaris Borkh.).” Journal of Ecology 90, no. 6 (2002): 1044–70. http://www.jstor.org/stable/3072311.
 [^16] “Viburnum Opulus ‘Roseum’  - Plant Finder,” n.d. https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=254951.
+[^17] Mazur, Monika, Jakub Szperlik, Anna Marietta Salejda, Grażyna Krasnowska, Joanna Kolniak-Ostek, and Przemysław Bąbelewski. 2021. "Description of the Guelder Rose Fruit in Terms of Chemical Composition, Antioxidant Capacity and Phenolic Compounds" Applied Sciences 11, no. 19: 9221. https://doi.org/10.3390/app11199221
+[^18] Hernández, Ángel. “Birds and Guelder Rose Viburnum Opulus: Selective Consumption and Dispersal via Regurgitation of Small-Sized Fruits and Seeds.” Plant Ecology 203, no. 1 (2009): 111–22. http://www.jstor.org/stable/40305719.
+[^19] Witmer, Mark C. “Nutritional Interactions and Fruit Removal: Cedar Waxwing Consumption of Viburnum Opulus Fruits in Spring.” Ecology 82, no. 11 (2001): 3120–30. https://doi.org/10.2307/2679839.
+[^20] Englund, Roger. “Fruit Removal in Viburnum Opulus: Copious Seed Predation and Sporadic Massive Seed Dispersal in a Temperate Shrub.” Oikos 67, no. 3 (1993): 503–10. https://doi.org/10.2307/3545362.
+
 
 [^14]: Orysia Tracz, “The Kalyna in Ukrainian Folk Medicine and Folklore,” Prairie Garden, January 1, 2006, 119–23.
 [^15]: Kubilius, “In Russia the Color Red Represents More Than You Know,” ThoughtCo, 2019, https://www.thoughtco.com/red-in-russian-culture-1502319.
