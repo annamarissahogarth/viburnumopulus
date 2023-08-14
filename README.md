@@ -68,13 +68,18 @@ The first recorded use of the term evolutionary biology was in relation to the G
 
 ### Morphology: Flower & Fruit 
 
-The trick of the guelder-rose lies in its morphology: <span data-mouseover-image-zoomto="436,232,179,137"> the white flowers that it is known for are actually sterile </span> and serve the purpose of attracting pollinators to the <span data-mouseover-image-zoomto="257,214,180,138"> smaller fertile flowers that lie at the center </span> of the inflorescence. The difference in size between these flowers—the larger ones are about 1.5-2.5cm in diameter, while the fertile ones are 4-5mm only ( )—could explain why the sterile flowers capture the imagination of the viewer. It is also to be noted that the guelder-rose flower has an “unpleasant, rather sickly smell” ( ), which means that its white flower must ensure that insects are visually driven to the fertile inner flowers so they can bloom into red berries and the plant can reproduce. The Guelder-Rose is often represented through its widely grown cultivator the ‘Roseum’, which gives the plant its name Snowball. This cultivar consists of only the sterile flowers (1045), which means that the inflorescence becomes a striking ball of white petals, but that it cannot reproduce without human intervention. 
+The trick of the guelder-rose lies in its morphology: <span data-mouseover-image-zoomto="436,232,179,137"> the white flowers that it is known for are actually sterile </span> and serve the purpose of attracting pollinators to the <span data-mouseover-image-zoomto="257,214,180,138"> smaller fertile flowers that lie at the center </span> of the inflorescence. The difference in size between these flowers—the larger ones are about 1.5-2.5cm in diameter, while the fertile ones are 4-5mm only—could explain why the sterile flowers capture the imagination of the viewer. It is also to be noted that the guelder-rose flower has an “unpleasant, rather sickly smell”[^15], which means that its white flower must ensure that insects are visually driven to the fertile inner flowers so they can bloom into red berries and the plant can reproduce. 
 <param ve-entity eid="Q156428">
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/6/69/Guelder_rose_flowers_-_geograph.org.uk_-_3531796.jpg"
        label="guelder rose flowers"
        description="the white guelder rose flowers"
        license="CC BY-SA 2.0">
+
+
+The Guelder-Rose is often represented through its widely grown cultivator the ‘Roseum’, which gives the plant its name Snowball. This cultivar consists of only the sterile flowers[^16], which means that the inflorescence becomes a striking ball of white petals, but that it cannot reproduce without human intervention. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/Viburnum_opulus_%27Roseum%27_Kalina_koralowa_odm._p%C5%82onna_2021-06-02_02.jpg" label= "Roseum, sterile cultivar"
+
 
 Just as the guelder-rose flower has a strange smell, the fruit is known to have a bitter taste due to the presence of saponin glycosides and slightly toxic viburnine ( ). For human consumption, it is usually either cooked or frozen before eating. The berries bloom ripen in fall, but they remain on the shoots through the winter season. This is because of the fact that seed dispersers that are integral to the plant’s reproduction are averse to its taste. The bright red berries of the guelder rose that persist through most of the winter is a powerful image, one which could signal how the interplay of the plant’s reproductive clock and the seasonal transformation of the landscape̦ could produce cultural signification—the red fruits must stand out as distinct symbols set against the white snow of winter, particularly in regions with colder winters such as Ukraine and Russia. 
 <param ve-entity eid="Q207653">
@@ -184,8 +189,8 @@ Vīburnum,” n.d. https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:19
 Ŏpŭlus,” n.d. https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=opulus&highlight=opulus.
 [^13] Smocovitis, V. B. “Unifying Biology: The Evolutionary Synthesis and Evolutionary Biology.” Journal of the History of Biology 25, no. 1 (1992): 1–65. http://www.jstor.org/stable/4331201
 [^14] Allen, Grant. Vignettes from Nature., 1881. https://doi.org/10.5962/bhl.title.25377.
-
-
+[^15] Kollmann, Johannes, and Peter J. Grubb. “Viburnum Lantana L. and Viburnum Opulus L. (V. Lobatum Lam., Opulus Vulgaris Borkh.).” Journal of Ecology 90, no. 6 (2002): 1044–70. http://www.jstor.org/stable/3072311.
+[^16] “Viburnum Opulus ‘Roseum’  - Plant Finder,” n.d. https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=254951.
 
 [^14]: Orysia Tracz, “The Kalyna in Ukrainian Folk Medicine and Folklore,” Prairie Garden, January 1, 2006, 119–23.
 [^15]: Kubilius, “In Russia the Color Red Represents More Than You Know,” ThoughtCo, 2019, https://www.thoughtco.com/red-in-russian-culture-1502319.
