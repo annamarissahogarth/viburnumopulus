@@ -61,9 +61,9 @@ This seeming confusion spills into the plant’s nomenclature as well: the term 
 <param ve-entity eid="Q775">
 
 
-V B Smocovitis notes that the first recorded use of the term evolutionary biology is in relation to the Guelder-Rose [^13] by the naturalist Grant Allen—in his 1881 text Vignettes from Nature, Allen speaks about the “self-same odd, outgrown outer flowers” of the guelder-rose that make it extremely fascinating for the field of evolutionary biology. These outer flowers, Allen writes, look like the petals of another plant “deftly arranged or pinned by some mischievous boy” onto the plant in order “to hoax the unwary botanist with a cunning deception”. The form of the guelder-rose is compared to a mystery, as if a trick is being played on the botanist attempting to study it. 
+The first recorded use of the term evolutionary biology was in relation to the Guelder-Rose [^13] by the naturalist Grant Allen—in his 1881 text Vignettes from Nature, Allen speaks about the “self-same odd, outgrown outer flowers” of the guelder-rose that make it extremely fascinating for the field of evolutionary biology. These outer flowers, Allen writes, look like the petals of another plant “deftly arranged or pinned by some mischievous boy” onto the plant in order “to hoax the unwary botanist with a cunning deception” [^14] The form of the guelder-rose is compared to a mystery, as if a trick is being played on the botanist attempting to study it. 
 <param ve-entity eid="Q840400">
-<param ve-iframe src="https://archive.org/details/vignettesfromnat00alleuoft/page/92/mode/2up?view=theater">
+<param ve-iframe src="https://archive.org/details/vignettesfromnat00alleuoft/page/93/mode/1up?view=theater">
 
 
 ### Morphology: Flower & Fruit 
@@ -183,6 +183,7 @@ Vīburnum,” n.d. https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:19
 [^12] “Charlton T. Lewis, Charles Short,  A Latin Dictionary,
 Ŏpŭlus,” n.d. https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=opulus&highlight=opulus.
 [^13] Smocovitis, V. B. “Unifying Biology: The Evolutionary Synthesis and Evolutionary Biology.” Journal of the History of Biology 25, no. 1 (1992): 1–65. http://www.jstor.org/stable/4331201
+[^14] Allen, Grant. Vignettes from Nature., 1881. https://doi.org/10.5962/bhl.title.25377.
 
 
 
