@@ -72,7 +72,7 @@ The trick of the guelder-rose lies in its morphology: <span data-mouseover-image
 <param ve-entity eid="Q1141466">
 <param ve-entity eid="Q156428">
 <param ve-image 
-       url="Q26135"
+       url="https://upload.wikimedia.org/wikipedia/commons/f/f5/Viburnum_opulus001.jpg"
        label="GuelderRrose Flowers"
        description="the white guelder rose flowers"
        license="CC BY-SA 3.0">
