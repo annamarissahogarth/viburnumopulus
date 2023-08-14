@@ -34,7 +34,7 @@ The guelder-rose has a long-standing relationship with human settlements and cul
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/annamarissahogarth/viburnumopulus/main/map_prehistoric.json" show-labels>
        
 
-More than just consumption, however, the Guelder Rose found other uses in later periods of prehistory. Greeneenagh, a fulacht fiadt dated to the Bronze Age, was a site used for food preparation. The silty-clay trough at the site—which was used for heating water by fire-reddened stones, which in turn were heated by burning wood—contained wooden charcoal that was identified as being from the Guelder Rose Tree, the wood dating to a time range of 791-419 BC [^8]. 
+More than just consumption, however, the Guelder Rose found other uses in later periods of prehistory. Greeneenagh, a fulacht fiadt dated to the Bronze Age, was a site used for food preparation. The <span data-mouseover-image-zoomto="456,296,239,189"> silty-clay trough </span> at the site was used for heating water by fire-reddened stones which in turn were warmed by burning wood. This wood was identified as being from the Guelder Rose Tree, dating to a time range of 791-419 BC [^8]. 
 <param ve-entity eid="Q3778145">
 <param ve-entity eid="Q11761">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/28/Fulacht_Fiadh_at_Drombeg_Stone_Circle_County_Cork%2C_Ireland.jpg" fit="contain" title="a Fulacht Fiadt at Dromberg Stone Circle, Country Cork, Ireland" attribution="Wikimedia Commons" license="public domain">
@@ -68,7 +68,7 @@ The first recorded use of the term evolutionary biology was in relation to the G
 
 ### Morphology: Flower & Fruit 
 
-The trick of the guelder-rose lies in its morphology: <span data-mouseover-image-zoomto="436,232,179,137"> the white flowers that it is known for are actually sterile </span> and serve the purpose of attracting pollinators to the <span data-mouseover-image-zoomto="257,214,180,138"> smaller fertile flowers that lie at the center </span> of the inflorescence. The difference in size between these flowers—the larger ones are about 1.5-2.5cm in diameter, while the fertile ones are 4-5mm only—could explain why the sterile flowers capture the imagination of the viewer. It is also to be noted that the guelder-rose flower has an “unpleasant, rather sickly smell”[^15], which means that its white flower must ensure that pollinators are visually driven to the fertile inner flowers so they can bloom into red berries and the plant can reproduce. 
+The trick of the guelder-rose lies in its morphology: <span data-mouseover-image-zoomto="1348,661,538,425"> the white flowers that it is known for are actually sterile </span> and serve the purpose of attracting pollinators to the <span data-mouseover-image-zoomto="970,596,364,288"> smaller fertile flowers that lie at the center </span> of the inflorescence. The difference in size between these flowers—the larger ones are about 1.5-2.5cm in diameter, while the fertile ones are 4-5mm only—could explain why the sterile flowers capture the imagination of the viewer. It is also to be noted that the guelder-rose flower has an “unpleasant, rather sickly smell”[^15], which means that its white flower must ensure that pollinators are visually driven to the fertile inner flowers so they can bloom into red berries and the plant can reproduce. 
 <param ve-entity eid="Q1141466">
 <param ve-entity eid="Q156428">
 <param ve-image 
