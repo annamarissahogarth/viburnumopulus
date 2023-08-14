@@ -68,33 +68,34 @@ The first recorded use of the term evolutionary biology was in relation to the G
 
 ### Morphology: Flower & Fruit 
 
-The trick of the guelder-rose lies in its morphology: <span data-mouseover-image-zoomto="436,232,179,137"> the white flowers that it is known for are actually sterile </span> and serve the purpose of attracting pollinators to the <span data-mouseover-image-zoomto="257,214,180,138"> smaller fertile flowers that lie at the center </span> of the inflorescence. The difference in size between these flowers—the larger ones are about 1.5-2.5cm in diameter, while the fertile ones are 4-5mm only—could explain why the sterile flowers capture the imagination of the viewer. It is also to be noted that the guelder-rose flower has an “unpleasant, rather sickly smell”[^15], which means that its white flower must ensure that insects are visually driven to the fertile inner flowers so they can bloom into red berries and the plant can reproduce. 
+The trick of the guelder-rose lies in its morphology: <span data-mouseover-image-zoomto="436,232,179,137"> the white flowers that it is known for are actually sterile </span> and serve the purpose of attracting pollinators to the <span data-mouseover-image-zoomto="257,214,180,138"> smaller fertile flowers that lie at the center </span> of the inflorescence. The difference in size between these flowers—the larger ones are about 1.5-2.5cm in diameter, while the fertile ones are 4-5mm only—could explain why the sterile flowers capture the imagination of the viewer. It is also to be noted that the guelder-rose flower has an “unpleasant, rather sickly smell”[^15], which means that its white flower must ensure that pollinators are visually driven to the fertile inner flowers so they can bloom into red berries and the plant can reproduce. 
+<param ve-entity eid="Q1141466">
 <param ve-entity eid="Q156428">
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/6/69/Guelder_rose_flowers_-_geograph.org.uk_-_3531796.jpg"
        label="guelder rose flowers"
        description="the white guelder rose flowers"
        license="CC BY-SA 2.0">
-
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Byhlen_Viburnum_opulus_Protaetia_cuprea_05.jpg" label="The Copper Chafer, a pollinator, on the fertile inner flowers" license="CC BY-SA 4.0"
 
 The Guelder-Rose is often represented through its widely grown cultivator the ‘Roseum’, which gives the plant its name Snowball. This cultivar consists of only the sterile flowers[^16], which means that the inflorescence becomes a striking ball of white petals, but that it cannot reproduce without human intervention. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/Viburnum_opulus_%27Roseum%27_Kalina_koralowa_odm._p%C5%82onna_2021-06-02_02.jpg" label= "Roseum, sterile cultivar of the Guelder Rose" license="CC BY-SA 4.0">
+<param ve-entity eid="Q4886">
 
-
-Just as the guelder-rose flower has a strange smell, the fruit is known to have a bitter taste due to the presence of saponin glycosides and slightly toxic viburnine[^17]. For human consumption, it is usually either cooked or frozen before eating. The berries bloom ripen in fall, but they remain on the shoots through the winter season, because of some seed dispersers that are integral to the plant’s reproduction are averse to its taste. The bright red berries of the guelder rose that persist through most of the winter is a powerful image, one which could signal how the interplay of the plant’s reproductive clock and the seasonal transformation of the landscape̦ come together to produce cultural signification—the red berries must stand out as distinct symbols against the white snow of winter, particularly in regions with colder winters such as Ukraine and Russia. 
+Just as the guelder-rose flower has a strange smell, the fruit is known to have a bitter taste due to the presence of saponin glycosides and slightly toxic viburnine[^17]. For human consumption, it is usually either cooked or frozen before eating. The berries bloom ripen in fall, but they remain on the shoots through the winter season, because of some seed dispersers that are integral to the plant’s reproduction are averse to its taste. The bright red berries of the guelder rose that persist through most of the winter is a powerful image, one which could signal how the interplay of the plant’s reproductive clock and the seasonal transformation of the landscape̦ to produce cultural signification—the red berries must stand out as distinct symbols against the white snow of winter, particularly in regions with colder winters such as Ukraine and Russia. 
 <param ve-entity eid="Q207653">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/66/Viburnum_opulus_180050525.jpg" label="Guelder Rose berries in the snow" license="CC BY-SA 4.0">
 
 The aversion of frugivore birds to the bitter guelder-rose berry, however, has its limits. As other fruit sources deplete through the winter, some birds such as the bullfinches act as seed predators—they discard the pulp and fruitskin and proceed to chew the fruit stone, split it in the middle, and then ingest the seed, which means the seed is destroyed [^18]. 
 <param ve-entity eid="Q16251302">
-
+<param ve-entity eid="Q1470764">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/89/Leevike_%28Pyrrhula_pyrrhula%29_talvel.jpg" label="The Bullfinch, a seed predator, consuming rowanberries" license="CC BY-SA 4.0">
 
-The primary seed dispersal agents of the Guelder Rose are the Cedar Waxwing in North America and the Bohemian Waxwing in the Paleoarctic, its natal range. Unlike seed predators like the bullfinch, the waxwing swallows the fruit as a whole, which means that the seed is left intact after consumption. The plant and the bird  have a unique "mutualistic relationship" [^19].
-
-The waxwing has an unpredictable migration pattern–it does not arrive at the same locations each year. In those years when the waxwing does not disperse the seed, most of them are lost to seed destroyers. As a response, the guelder rose takes on a “costly bet-hedging seed-dispersal strategy” [^20]. In the face of the threat of seed destruction, the Guelder Rose produces as many fruits as it can. In the years when the waxwing does not migrate to the plant’s range, most of these seeds are lost. However, in the years that the waxwing comes, the plant’s bet is successful—the possibility of massive new growth is made possible by the hope of the bird’s arrival at the end of winter. 
+The primary seed dispersal agents of the Guelder Rose are the Cedar Waxwing in North America and the Bohemian Waxwing in the Paleoarctic, its natal range. Unlike seed predators like the bullfinch, the waxwing swallows the fruit as a whole, which means that the seed is left intact after consumption. The plant and the bird  have a unique "mutualistic relationship" [^19]. The waxwing has an unpredictable migration pattern–it does not arrive at the same locations each year. In those years when the waxwing does not disperse the seed, most of them are lost to seed destroyers. As a response, the guelder rose takes on a “costly bet-hedging seed-dispersal strategy” [^20]. In the face of the threat of seed destruction, the Guelder Rose produces as many fruits as it can. In the years when the waxwing does not migrate to the plant’s range, most of these seeds are lost. However, in the years that the waxwing comes, the plant’s bet is successful—the possibility of massive new growth is made possible by the hope of the bird’s arrival at the end of winter. 
+<param ve-entity eid="Q186368">
+<param ve-entity eid="Q184314">
+<param ve-entity eid="Q26135">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8b/CedarWaxwingeatingberries09.jpg" label="The Cedar Waxwing consuming Guelder Rose berries" license="CC BY-SA 3.0">
-
 
 ### Which is more prized? The berries or the flower? 
 
