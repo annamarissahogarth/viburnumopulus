@@ -78,7 +78,7 @@ The trick of the guelder-rose lies in its morphology: <span data-mouseover-image
 
 
 The Guelder-Rose is often represented through its widely grown cultivator the ‘Roseum’, which gives the plant its name Snowball. This cultivar consists of only the sterile flowers[^16], which means that the inflorescence becomes a striking ball of white petals, but that it cannot reproduce without human intervention. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/Viburnum_opulus_%27Roseum%27_Kalina_koralowa_odm._p%C5%82onna_2021-06-02_02.jpg" label= "Roseum, sterile cultivar"
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/Viburnum_opulus_%27Roseum%27_Kalina_koralowa_odm._p%C5%82onna_2021-06-02_02.jpg" label= "Roseum, sterile cultivar">
 
 
 Just as the guelder-rose flower has a strange smell, the fruit is known to have a bitter taste due to the presence of saponin glycosides and slightly toxic viburnine ( ). For human consumption, it is usually either cooked or frozen before eating. The berries bloom ripen in fall, but they remain on the shoots through the winter season. This is because of the fact that seed dispersers that are integral to the plant’s reproduction are averse to its taste. The bright red berries of the guelder rose that persist through most of the winter is a powerful image, one which could signal how the interplay of the plant’s reproductive clock and the seasonal transformation of the landscape̦ could produce cultural signification—the red fruits must stand out as distinct symbols set against the white snow of winter, particularly in regions with colder winters such as Ukraine and Russia. 
