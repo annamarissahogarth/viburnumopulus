@@ -13,6 +13,7 @@
         "name": "Tybrind Vig",
         "label": "Tybrind Vig"
       }
+      "id" = 1
     },
     {
       "type": "Feature",
@@ -26,7 +27,7 @@
         "name": "Clonava-1",
         "label": "Clonava-1"
       },
-      "id"= 1,
+      "id"= 2
     },
     {
       "type": "Feature",
@@ -40,7 +41,7 @@
         "name": "Doel Sector M",
         "label": "Doel Sector M"
       },
-      "id"= 1,
+      "id"= 3
     },
     {
       "type": "Feature",
@@ -55,6 +56,7 @@
         "label": "Greeneenagh",
         "title": "Greeneenagh"
       }
+      "id" = 4
     }
   ]
 }
