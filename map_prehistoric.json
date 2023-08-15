@@ -10,9 +10,8 @@
          55.394211
         ],
         "type": "Point",
-        "name": "Tybrind Vig",
+        "name": "Tybrind Vig"
       }
-      "id" = 1
     },
     {
       "type": "Feature",
@@ -23,9 +22,9 @@
           53.6660674709904
         ],
         "type": "Point",
-        "name": "Clonava-1",
+        "name": "Clonava-1"
       },
-      "id"= 2
+      "id" = 1
     },
     {
       "type": "Feature",
@@ -36,10 +35,8 @@
           51.285347
         ],
         "type": "Point",
-        "name": "Doel Sector M",
+        "name": "Doel Sector M"
       },
-      "id"= 3
-    },
     {
       "type": "Feature",
       "properties": {},
@@ -49,9 +46,9 @@
           53.20698674768145
         ],
         "type": "Point",
-        "name": "Greeneenagh",
+        "name": "Greeneenagh"
       }
-      "id" = 4
+      "id" = 2
     }
   ]
 }
