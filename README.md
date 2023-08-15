@@ -19,7 +19,7 @@ Why was the guelder rose (_Viburnum opulus_) plant featured on such a prominent 
 
 ### Prehistoric Roots 
 
-The guelder-rose has a long-standing relationship with human settlements and culture. This begins all the way from the prehistoric period: <span data-mouseover-map-flyto="9.810635, 55.394211,8">Tybrind Vig</span>, a late Mesolithic coastal settlement of the Ertebølle culture located in present-day Denmark, dated to about 5600-4000 BC, was found to have charred remains of guelder rose seeds[^4]. Since the berries have to be cooked prior to eating, this shows that the guelder rose berries were cooked and consumed at the site. Clusters of guelder rose seeds were also found lying at  <span data-mouseover-map-flyto="-7.420011008004994, 53.66606747099045,8">Clonava-1</span>[^5], an island site at Lake Derravagh, present-day Co. Westmeath, Ireland, which is a remnant of the mesolithic Larnian culture.  Since these seeds were found to be uncharred, it is possible this shows their collection prior to being prepared for consumption[^6]. <span data-mouseover-map-flyto=" 4.251812, 51.285347,8">Doel Sector M</span>, a Swifterbant site dated to the late mesolithic-early neolithic transition period (ca. 4600—4000 B.C.), located in present-day Northwest Belgium, shows remains of guelder-rose berries and seeds as well [^7]. Another site, dating to the later Bronze Age, is at <span data-mouseover-map-flyto=" -8.551325620026535, 53.20698674768145,8">Greeneenagh</span> in Ireland. 
+The guelder-rose has a long-standing relationship with human settlements and culture. This begins all the way from the prehistoric period: <span data-mouseover-map-flyto="55.394211, 9.810635,8">Tybrind Vig</span>, a late Mesolithic coastal settlement of the Ertebølle culture located in present-day Denmark, dated to about 5600-4000 BC, was found to have charred remains of guelder rose seeds[^4]. Since the berries have to be cooked prior to eating, this shows that the guelder rose berries were cooked and consumed at the site. Clusters of guelder rose seeds were also found lying at  <span data-mouseover-map-flyto="53.66606747099045, -7.420011008004994,8">Clonava-1</span>[^5], an island site at Lake Derravagh, present-day Co. Westmeath, Ireland, which is a remnant of the mesolithic Larnian culture.  Since these seeds were found to be uncharred, it is possible this shows their collection prior to being prepared for consumption[^6]. <span data-mouseover-map-flyto="51.285347, 4.251812,8">Doel Sector M</span>, a Swifterbant site dated to the late mesolithic-early neolithic transition period (ca. 4600—4000 B.C.), located in present-day Northwest Belgium, shows remains of guelder-rose berries and seeds as well [^7]. Another site, dating to the later Bronze Age, is at <span data-mouseover-map-flyto="53.20698674768145, -8.551325620026535,8">Greeneenagh</span> in Ireland. 
 <param ve-entity eid="Q11756">
 <param ve-entity eid="Q103971144">
 <param ve-entity eid="Q44155">
@@ -29,7 +29,7 @@ The guelder-rose has a long-standing relationship with human settlements and cul
 <param ve-entity eid="Q11761">
 <param ve-map basemap="Esri_WorldPhysical"
        center="Q46"
-       zoom="6"
+       zoom="4"
        title="Prehistoric Sites with Evidence of Guelder Rose Usage"
        show-labels
        >
