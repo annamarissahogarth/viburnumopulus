@@ -36,7 +36,8 @@
         ],
         "type": "Point",
         "name": "Doel Sector M"
-      },
+      }
+    },
     {
       "type": "Feature",
       "properties": {},
@@ -47,7 +48,7 @@
         ],
         "type": "Point",
         "name": "Greeneenagh"
-      }
+      },
       "id" = 2
     }
   ]
