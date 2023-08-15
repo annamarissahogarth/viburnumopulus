@@ -99,6 +99,11 @@ The primary seed dispersal agents of the Guelder Rose are the Cedar Waxwing in N
 
 ### Which is more prized? The berries or the flower? 
 
+The unique morphology of the Guelder Rose—with its white flowers that turn into bright red fruits—takes on different associations and meanings across cultures. In Britain, where it is known primarily as the Snowball—after the cultivar Roseum—it is prized for its color primarily. The painting Guelder Roses and the Venus of Milo by French artist Édouard Vuillard juxtaposes the white flower with the backward bust of the classical Venus de Milo, both of which are painted with the same hues of white and gold. This is association with colour is the opposite in the case of Ukraine and Russia, where the red fruit that blossoms in the winter is the plant’s primary cultural symbol, taking on life in household objects as well as art. On the other hand, in Japan, art made of the Guelder Rose emphasizes the symmetry of its shoots and leaves. 
+<param ve-image url=" " license="public domain" url=" ">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e5/Guelder_Roses_and_the_Venus_of_Milo%2C_1905.jpg" license ="public domain" label="Guelder Roses and the Venus of Milo"> 
+
+
 In Ukraine, the red berries are embedded into its name. “Chervona kalyna,” the folksong that became an unofficial Ukrainian national anthem, translates to “red viburnum,” which emphasizes the red color of the berries more than the white flower. In fact, the word kalyna is rarely spoken by itself, but instead usually "chervona kalyna.” It is the leaves with the berries, rather than the blossoms, that are the important symbol in Ukrainian culture.[^14] _Viburnum opulus_ is called kalyna, or калина обыкновенная, in Russian. In Old Russian, the word for red is “krasni” while the modern word for beautiful is “krasivi.” Generally, things that are red are elevated in status, and many revered landscapes in Russia contain the word “red” in their name: the Red Square, one of the most important sites of Moscow; the red corner full of Orthodox icons, and red easter eggs.[^15] Therefore, the red berries of the viburnum are etymologically related to beauty and elevated status. 
 <param ve-image label="The Red Square in Moscow" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/6/62/00_0623_Red_Square_in_Moscow.jpg">
 <param ve-image label="A shelf for Orthodox icons, called the Red Corner" description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/c/c7/Shelf_for_Orthodox_icons_01_by_shakko.jpg">
@@ -137,6 +142,8 @@ Ukrainian folksongs and folktales speak of the kalyna bush in ways that promote 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3b/Mykola_Pymonenko-Zhnyva.jpg" fit="contain" title="Harvest in Ukraine (1896), by Mykola Pymonenko, oil on canvas" attribution="Wikimedia Commons" license="public domain">
 
 “I am a woman. I am a blade of grass. I am dew. / Without love I am like a guelder rose in the frost,” wrote on Ukrainian poet about the viburnum. Another said “My songs are a guelder rose bridge over the river of time, / I am a pagan in love with life." One can assume that the viburnum takes many symbolic forms, even in more contemporary poetry. Writers across the fields have listed many symbols, from fire and sunlight, to a girl’s virginity, to love, family, blood, and sadness, to the viburnum.[^27] The viburnum is a reminder of the motherland and of familiar places left behind.[^28] 
+
+
 
 
 ### Guelder Rose and the War in Ukraine
