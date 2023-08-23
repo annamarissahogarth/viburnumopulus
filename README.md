@@ -248,7 +248,7 @@ Phillips, Henry. n.d. Floral Emblems. London: Saunders and Otley. https://www.bi
 [^38]: Cholodova, 2017.
 [^39]: Katya Chomitzky, “Pandemic, but Make It Fashion: Ukrainian Embroidered PPE in the Time of COVID-19,” Folklorica 24 (2020): 27–50.
 [^40]: Harbison Parker, “‘The Twa Sisters’. Going Which Way?” The Journal of American Folklore 64, no. 254 (1951): 347–60. https://doi.org/10.2307/537003.
-[^41]: 
+[^41]: Karbashevska Oksana, "English Folk Ballads Collected By Cecil James Sharp in The Southern Appalachians: Genesis, Transformation and Ukrainian Parallels" Journal of Vasyl Stefanyk Precarpathian National University Vol. 1, no. 2, 3 (2014): 79-85.
 [^42]: Oksana Zabuzhko, "Your Ad Could Go Here". AmazonCrossing, 2020.
 [^43]: Rikoun, Polina. “CONFRONTING THE ‘ELDER BROTHER’: UKRAINIAN-RUSSIAN RELATIONS IN OLEKSANDR ILCHENKO’S NOVEL ‘KOZATS’KOMU RODU NEMA PEREVODU.’” The Slavic and East European Journal 56, no. 1 (2012): 71–90. http://www.jstor.org/stable/41698441.
 [^44]: Oleksandr Ilʹchenko, Kozat︠S︡ʹkomu Rodu Nema Perevodu: Abo Zh, mamaĭ i chuz︠h︡a︡ molodyt︠s︡i︠a︡: Ukraĭnsʹkyĭ Khymernyĭ roman Z Narodnykh UST. Translated by Arsenii Ostrovskii and Georgii Shipov. Moscow: Khudozhestvennaia Literatura, 1970. 
