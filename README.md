@@ -209,23 +209,23 @@ The guelder rose, once a frequent symbol in Ukrainian, Russian, and British trad
 [^3]: Owen Hatherley, “Architects of Revolt: The Kiev Square That Sparked Ukraine’s Insurrection,” The Guardian, April 8, 2014, sec. Cities, https://www.theguardian.com/cities/2014/apr/08/architects-revolt-kiev-maidan-square-ukraine-insurrection. 
 [^4]: Kubiak-Martens, Lucyna. “The Plant Food Component of the Diet at the Late Mesolithic (Ertebølle) Settlement at Tybrind Vig, Denmark.” Vegetation History and Archaeobotany 8, no. 1/2 (1999): 117–27. http://www.jstor.org/stable/23417650.
 [^5]: Mitchell, G. F. “Some Ultimate Larnian Sites at Lake Derravaragh, Co. Westmeath.” The Journal of the Royal Society of Antiquaries of Ireland 102, no. 2 (1972): 160–73. http://www.jstor.org/stable/25509791.
-[^6] Aimée Little. “Clonava Island Revisited: A Story of Cooking, Plants and Re-Occupation during the Irish Late Mesolithic.” Proceedings of the Royal Irish Academy: Archaeology, Culture, History, Literature 114C (2014): 35–55. https://doi.org/10.3318/priac.2014.114.09.
-[^7] Deforce, Koen, Jan Bastiaens, Wim Van Neer, Anton Ervynck, An Lentacker, Joris Sergant, and Philippe Crombé. “Wood Charcoal and Seeds as Indicators for Animal Husbandry in a Wetland Site during the Late Mesolithic—Early Neolithic Transition Period (Swifterbant Culture, ca. 4600—4000 B.C.) in NW Belgium.” Vegetation History and Archaeobotany 22, no. 1 (2013): 51–60. http://www.jstor.org/stable/23419912.
-[^8] Jones, Martin. “Eating Out: Prehistoric Food Preparation Sites On The Route of The Loughrea Bypass, Co. Galway.” Journal of the Galway Archaeological and Historical Society 59 (2007): 149–57. http://www.jstor.org/stable/20696608.
-[^9] “An Update of the Angiosperm Phylogeny Group Classification for the Orders and Families of Flowering Plants: APG IV,” Botanical Journal of the Linnean Society 181, no. 1 (March 24, 2016): 1–20, https://doi.org/10.1111/boj.12385.
-[^10]  “Viburnaceae Raf. | Plants of the World Online | Kew Science,” Plants of the World Online, n.d., https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77162522-1.
-[^11] “Charlton T. Lewis, Charles Short,  A Latin Dictionary,
+[^6]: Aimée Little. “Clonava Island Revisited: A Story of Cooking, Plants and Re-Occupation during the Irish Late Mesolithic.” Proceedings of the Royal Irish Academy: Archaeology, Culture, History, Literature 114C (2014): 35–55. https://doi.org/10.3318/priac.2014.114.09.
+[^7]: Deforce, Koen, Jan Bastiaens, Wim Van Neer, Anton Ervynck, An Lentacker, Joris Sergant, and Philippe Crombé. “Wood Charcoal and Seeds as Indicators for Animal Husbandry in a Wetland Site during the Late Mesolithic—Early Neolithic Transition Period (Swifterbant Culture, ca. 4600—4000 B.C.) in NW Belgium.” Vegetation History and Archaeobotany 22, no. 1 (2013): 51–60. http://www.jstor.org/stable/23419912.
+[^8]: Jones, Martin. “Eating Out: Prehistoric Food Preparation Sites On The Route of The Loughrea Bypass, Co. Galway.” Journal of the Galway Archaeological and Historical Society 59 (2007): 149–57. http://www.jstor.org/stable/20696608.
+[^9]: “An Update of the Angiosperm Phylogeny Group Classification for the Orders and Families of Flowering Plants: APG IV,” Botanical Journal of the Linnean Society 181, no. 1 (March 24, 2016): 1–20, https://doi.org/10.1111/boj.12385.
+[^10]: “Viburnaceae Raf. | Plants of the World Online | Kew Science,” Plants of the World Online, n.d., https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77162522-1.
+[^11]: “Charlton T. Lewis, Charles Short,  A Latin Dictionary,
 Vīburnum,” n.d. https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=viburnum&highlight=viburnum.
-[^12] “Charlton T. Lewis, Charles Short,  A Latin Dictionary,
+[^12]: “Charlton T. Lewis, Charles Short,  A Latin Dictionary,
 Ŏpŭlus,” n.d. https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=opulus&highlight=opulus.
-[^13] Smocovitis, V. B. “Unifying Biology: The Evolutionary Synthesis and Evolutionary Biology.” Journal of the History of Biology 25, no. 1 (1992): 1–65. http://www.jstor.org/stable/4331201
-[^14] Allen, Grant. Vignettes from Nature., 1881. https://doi.org/10.5962/bhl.title.25377.
-[^15] Kollmann, Johannes, and Peter J. Grubb. “Viburnum Lantana L. and Viburnum Opulus L. (V. Lobatum Lam., Opulus Vulgaris Borkh.).” Journal of Ecology 90, no. 6 (2002): 1044–70. http://www.jstor.org/stable/3072311.
-[^16] “Viburnum Opulus ‘Roseum’  - Plant Finder,” n.d. https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=254951.
-[^17] Mazur, Monika, Jakub Szperlik, Anna Marietta Salejda, Grażyna Krasnowska, Joanna Kolniak-Ostek, and Przemysław Bąbelewski. 2021. "Description of the Guelder Rose Fruit in Terms of Chemical Composition, Antioxidant Capacity and Phenolic Compounds" Applied Sciences 11, no. 19: 9221. https://doi.org/10.3390/app11199221
-[^18] Hernández, Ángel. “Birds and Guelder Rose Viburnum Opulus: Selective Consumption and Dispersal via Regurgitation of Small-Sized Fruits and Seeds.” Plant Ecology 203, no. 1 (2009): 111–22. http://www.jstor.org/stable/40305719.
-[^19] Witmer, Mark C. “Nutritional Interactions and Fruit Removal: Cedar Waxwing Consumption of Viburnum Opulus Fruits in Spring.” Ecology 82, no. 11 (2001): 3120–30. https://doi.org/10.2307/2679839.
-[^20] Englund, Roger. “Fruit Removal in Viburnum Opulus: Copious Seed Predation and Sporadic Massive Seed Dispersal in a Temperate Shrub.” Oikos 67, no. 3 (1993): 503–10. https://doi.org/10.2307/3545362.
+[^13]: Smocovitis, V. B. “Unifying Biology: The Evolutionary Synthesis and Evolutionary Biology.” Journal of the History of Biology 25, no. 1 (1992): 1–65. http://www.jstor.org/stable/4331201
+[^14]: Allen, Grant. Vignettes from Nature., 1881. https://doi.org/10.5962/bhl.title.25377.
+[^15]: Kollmann, Johannes, and Peter J. Grubb. “Viburnum Lantana L. and Viburnum Opulus L. (V. Lobatum Lam., Opulus Vulgaris Borkh.).” Journal of Ecology 90, no. 6 (2002): 1044–70. http://www.jstor.org/stable/3072311.
+[^16]: “Viburnum Opulus ‘Roseum’  - Plant Finder,” n.d. https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=254951.
+[^17]: Mazur, Monika, Jakub Szperlik, Anna Marietta Salejda, Grażyna Krasnowska, Joanna Kolniak-Ostek, and Przemysław Bąbelewski. 2021. "Description of the Guelder Rose Fruit in Terms of Chemical Composition, Antioxidant Capacity and Phenolic Compounds" Applied Sciences 11, no. 19: 9221. https://doi.org/10.3390/app11199221
+[^18]: Hernández, Ángel. “Birds and Guelder Rose Viburnum Opulus: Selective Consumption and Dispersal via Regurgitation of Small-Sized Fruits and Seeds.” Plant Ecology 203, no. 1 (2009): 111–22. http://www.jstor.org/stable/40305719.
+[^19]: Witmer, Mark C. “Nutritional Interactions and Fruit Removal: Cedar Waxwing Consumption of Viburnum Opulus Fruits in Spring.” Ecology 82, no. 11 (2001): 3120–30. https://doi.org/10.2307/2679839.
+[^20]: Englund, Roger. “Fruit Removal in Viburnum Opulus: Copious Seed Predation and Sporadic Massive Seed Dispersal in a Temperate Shrub.” Oikos 67, no. 3 (1993): 503–10. https://doi.org/10.2307/3545362.
 [^21]: Orysia Tracz, “The Kalyna in Ukrainian Folk Medicine and Folklore,” Prairie Garden, January 1, 2006, 119–23.
 [^22]: Kubilius, “In Russia the Color Red Represents More Than You Know,” ThoughtCo, 2019, https://www.thoughtco.com/red-in-russian-culture-1502319.
 [^23]: Hale, Sarah Josepha Buell. n.d. Flora’s Interpreter, and Fortuna Flora. Revised and Enlarged edition, with New illustrations. Boston: Sanborn, Carter and Bazin. https://www.biodiversitylibrary.org/item/110416.
