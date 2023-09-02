@@ -1,0 +1,19 @@
+source	source.label	target	target.label	edge
+Q13181	Cranberry Bush	Q156928	Viburnum Opulus	in Common Name is a Viburnum Opulus
+Q13181	Cranberry Bush	Q49	North America	in North America is a Viburnum Opulus
+Q12140	Cramp Bark	Q156928	Viburnum Opulus	in Common Name is a Viburnum Opulus
+Q12140	Cramp Bark	Q188840	Medicincal Usage	in Medicinal Usage is a Viburnum Opulus
+Q4886	Snowball Tree	Q156928	Viburnum Opulus	in Common Name is a Viburnum Opulus
+Q4886	Snowball Tree	Q46	EUROPE VERNACULAR	in Europe is a Viburnum Opulus
+Q734898	Common Snowball	Q156928	Viburnum Opulus	in Common Name is a Viburnum Opulus
+Q734898	Common Snowball	Q46	EUROPE VERNACULAR	in Europe is a Viburnum Opulus
+Q16128920	Kalyna	Q156928	Viburnum Opulus	in Common Name is a Viburnum Opulus
+Q16128920	Kalyna	Q212	UKRAINE, RUSSIA, & POLAND	in Ukraine, Russia, & Poland is a Viburnum Opulus
+Q12824780	Gilaburu	Q156928	Viburnum Opulus	in Common Name is a Viburnum Opulus
+Q12824780	Gilaburu	Q43	TURKEY VERNACULAR	in Turkey is a Viburnum Opulus
+Q131448	Water Elder	Q156928	Guelder Rose	in Common Name is a Viburnum Opulus
+Q131448	Water Elder	Q46	EUROPE VERNACULAR	in Europe is a Viburnum Opulus
+Q102231	Guelder Rose	Q156928	Viburnum Opulus 	in Common Name is a Viburnum Opulus
+Q102231	Guelder Rose	Q775	Gelderland, Netherlands	Named after 
+Q34687	Rose Elder	Q156928	Viburnum Opulus	in Common Name is a Guelder Rose
+Q34687	Rose Elder	Q46	EUROPE VERNACULAR	in Europe is a Viburnum Opulus
