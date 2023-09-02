@@ -47,16 +47,15 @@ As the prehistoric data shows, the Guelder Rose is native to the paleoarctic, an
 
 ### Resisting Classification: Taxonomy & Nomenclature 
 
-The Guelder Rose seems to elude precise classification. Taxonomically, it belongs to the _Viburnum_ Genus, a clade of flowering plants that consists of shrubs and small trees. The Guelder-Rose was initially placed in the _Caprifoliacea_e family, commonly known as the Honeysuckle family, which is popularly known for its species that have the status of being invasive in their introduced habitats. The Guelder-Rose was reclassified by the Angiosperm Phylogeny Group to being part of the _Adoxaceae_ family. However, this group is often also termed as the _Viburnaceae_[^9]. The issue of classification is not entirely settled[^10].
- 
+The Guelder Rose seems to elude precise classification. Taxonomically, it belongs to the _Viburnum_ Genus, a clade of flowering plants that consists of shrubs and small trees. The Guelder-Rose was initially placed in the _Caprifoliaceae_ family, commonly known as the Honeysuckle family, which is popularly known for its species that have the status of being invasive in their introduced habitats. The Guelder-Rose was reclassified by the Angiosperm Phylogeny Group to being part of the _Adoxaceae_ family. However, this group is often also termed as the _Viburnaceae_[^9]. The issue of classification is not entirely settled[^10].
 <param ve-entity eid="Q34740">
 <param ve-entity eid="Q156301">
 <param ve-entity eid="Q156047">
 <param ve-entity eid="Q156677">
 <param ve-entity eid="Q2652443">
-
 <param ve-compare curtain label="slide mouse to compare" description="Photograph" license="public domain" url="https://plants-jstor-org.amherst.idm.oclc.org/seqapp/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=/jp2/fpx/alukaplant/abfm/phase_01/abfm0003/abfm00493.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=3&svc.rotate=0&svc.region=0,0,616,453">
 <param ve-compare label="slide mouse to compare" description="Photograph" license="public domain" url="https://plants-jstor-org.amherst.idm.oclc.org/seqapp/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=/jp2/fpx/alukaplant/abfm/phase_01/abfm0008/abfm00488.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=3&svc.rotate=0&svc.region=0,0,627,444">
+
 
 This seeming confusion spills into the plant’s nomenclature as well: the term Guelder Rose itself is a misnomer, since the plant is not a rose. Simultaneously, the word Guelder gestures to the Gelderland region of the Netherlands, but the plant has no significant relationship of origin or importance to the region. The plant is also called the European guelder, water elder, rose elder, Rose Ebru, cherry-wood, crampbark, and as gilaburu in Turkey. Other names of the plant include Cranberry Bush and Snowball Tree—but both of these confound more than they explain, since the plant is not a Cranberry, and the Snowball is only a single cultivar of it. Its scientific name, _Viburnum Opulus_, has a similar confusion: _Viburnum_ is Latin for the wayfaring tree[^11], and _Opulus_ is Latin for the maple tre [^12]. These other plants are used to signify the Guelder Rose, but its own individuality seems almost slippery. In Ukrainian, Russian, and Polish—the regions where the plant is highly commonplace and holds key symbolic power—it is called Kalyna.
 <param ve-entity eid="Q775">
