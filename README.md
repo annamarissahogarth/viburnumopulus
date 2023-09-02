@@ -31,9 +31,9 @@ The guelder-rose has a long-standing relationship with human settlements and cul
        center="Q46"
        zoom="4"
        title="Prehistoric Sites with Evidence of Guelder Rose Usage"
-       show-labels
+       show-labels="true"
        >
-<param ve-map-layer geojson url="https://raw.githubusercontent.com/annamarissahogarth/viburnumopulus/main/map_prehistoric.json" show-labels>
+<param ve-map-layer geojson url="https://raw.githubusercontent.com/annamarissahogarth/viburnumopulus/main/map_prehistoric.json">
        
 
 Greeneenagh shows evidence that  Guelder Rose found use beyond just consumption in later periods of prehistory. Greeneenagh was a fulacht fiadt, a site that resembles a burning mound, used for food preparation. The <span data-mouseover-image-zoomto="456,296,239,189"> silty-clay trough </span> at the site was used for heating water by fire-reddened stones which in turn were warmed by burning wood. This wood was identified as being from the Guelder Rose Tree, dating to a time range of 791-419 BC[^8]. 
