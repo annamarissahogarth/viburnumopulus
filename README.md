@@ -33,7 +33,7 @@ The guelder-rose has a long-standing relationship with human settlements and cul
        title="Prehistoric Sites with Evidence of Guelder Rose Usage"
        show-labels="true"
        >
-<param ve-map-layer geojson url="https://raw.githubusercontent.com/annamarissahogarth/viburnumopulus/main/map_prehistoric.json">
+<param ve-map-layer geojson url="map_prehistoric.json">
        
 
 Greeneenagh shows evidence that  Guelder Rose found use beyond just consumption in later periods of prehistory. Greeneenagh was a fulacht fiadt, a site that resembles a burning mound, used for food preparation. The <span data-mouseover-image-zoomto="456,296,239,189"> silty-clay trough </span> at the site was used for heating water by fire-reddened stones which in turn were warmed by burning wood. This wood was identified as being from the Guelder Rose Tree, dating to a time range of 791-419 BC[^8]. 
@@ -43,8 +43,8 @@ Greeneenagh shows evidence that  Guelder Rose found use beyond just consumption 
 
 As the prehistoric data shows, the Guelder Rose is native to the paleoarctic, and it has been used for varied purposes for millennia in regions of Europe. Throughout history, the guelder rose has been introduced to wider ranges of geography. As it moves across boundaries of culture, time, and space, the Guelder Rose takes on new significations and meanings—some of which seem entirely contradictory, but each is still tied intrinsically to the plant’s morphology. 
 <param ve-entity eid="Q106447">
-<param ve-map>
-<param ve-map-layer-geojson url="https://raw.githubusercontent.com/annamarissahogarth/viburnumopulus/main/map_distribution.json">
+<param ve-map basemap="Esri_WorldPhysical" center =center="Q46" zoom="1">
+<param ve-map-layer-geojson url="map_distribution.json">
 
 ### Resisting Classification: Taxonomy & Nomenclature 
 
