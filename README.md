@@ -43,7 +43,7 @@ Greeneenagh shows evidence that  Guelder Rose found use beyond just consumption 
 
 As the prehistoric data shows, the Guelder Rose is native to the paleoarctic, and it has been used for varied purposes for millennia in regions of Europe. Throughout history, the guelder rose has been introduced to wider ranges of geography. As it moves across boundaries of culture, time, and space, the Guelder Rose takes on new significations and meanings—some of which seem entirely contradictory, but each is still tied intrinsically to the plant’s morphology. 
 <param ve-entity eid="Q106447">
-<param ve-map basemap="Esri_WorldPhysical" center="Q46" zoom="1" title="Distribution of the Guelder Rose: Native regions in red, and regions it was introduced into in yellow. Source: Royal Botanic Gardens, Kew>
+<param ve-map basemap="Esri_WorldPhysical" center="Q46" zoom="1" title="Distribution of the Guelder Rose: Native regions in red, introduced regions in yellow. Source: Royal Botanic Gardens, Kew">
 <param ve-map-layer geojson url="map_distribution.json">
 
 ### Resisting Classification: Taxonomy & Nomenclature 
