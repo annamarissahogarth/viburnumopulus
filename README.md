@@ -20,7 +20,7 @@ Why was the guelder rose (_Viburnum opulus_) plant featured on such a prominent 
 ### Prehistoric Roots 
 
 The guelder rose has long played a prominent role in human culture and can be traced back to the prehistoric period. Charred remains of its seeds were found in <span data-mouseover-map-flyto="55.394211, 9.810635,9">Tybrind Vig</span>, a late Mesolithic coastal settlement of the Ertebølle culture dated to 5600–4000 BCE.[^4] Since the berries have to be cooked prior to eating, this record shows that they were cooked and consumed at the site. 
-Clusters of guelder rose seeds were also found at <span data-mouseover-map-flyto="53.66606747099045, -7.420011008004994,9">Clonava-1</span>, , an island site at Lake Derravaragh in present-day County Westmeath, Ireland, which is a remnant of the Mesolithic Larnian culture.[^5]
+Clusters of guelder rose seeds were also found at <span data-mouseover-map-flyto="53.66606747099045, -7.420011008004994,9">Clonava-1</span>, an island site at Lake Derravaragh in present-day County Westmeath, Ireland, which is a remnant of the Mesolithic Larnian culture.[^5]
 Since these seeds were uncharred, the evidence probably shows their collection prior to being prepared for consumption.[^6] <span data-mouseover-map-flyto="51.285347, 4.251812,9">Doel Sector M</span>, a Swifterbant site in present-day northwest Belgium, dated to the late Mesolithic-early Neolithic transition period (ca. 4600–4000 BCE), has remains of guelder rose berries and seeds.[^7] Another site dating to the later Bronze Age, is <span data-mouseover-map-flyto="53.20698674768145, -8.551325620026535,9">Greeneenagh</span> in Ireland. 
 <param ve-entity eid="Q11756">
 <param ve-entity eid="Q103971144">
@@ -68,7 +68,7 @@ This seeming confusion spills into the plant’s nomenclature as well. The name 
 In fact, the first recorded use of the term evolutionary biology was by the naturalist Grant Allen in relation to the guelder rose.[^13] In his 1881 text _Vignettes from Nature_, Allen writes about the “self-same odd, outgrown outer flowers” of the guelder rose that make it extremely fascinating from the point of view of evolutionary biology. These outer flowers, Allen writes, look like the petals of another plant “deftly arranged or pinned by some mischievous boy” onto the plant in order “to hoax the unwary botanist with a cunning deception.”[^14]
 <param ve-entity eid="Q840400">
 <param ve-iframe src="https://archive.org/details/vignettesfromnat00alleuoft/page/93/mode/1up?view=theater"
-       title="Vignettes from Nature, by Grant Allen">
+       label="Vignettes from Nature, by Grant Allen">
 
 
 ### Morphology: Flower & Fruit 
@@ -81,13 +81,12 @@ The plant’s “hoax” lies in its morphology. Its emblematic <span data-mouse
        label="Guelder Rose Flowers"
        description="Morphology of the guelder rose"
        license="CC BY-SA 3.0">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Byhlen_Viburnum_opulus_Protaetia_cuprea_05.jpg" label="The Copper Chafer, a pollinator, on the fertile inner flowers" license="CC BY-SA 4.0">
 
 Discussions of guelder rose is often center on its widely grown cultivar, the roseum, which gave the plant its name “snowball.” The roseum consists of only sterile flowers, which results in the inflorescence becoming a striking ball of white petals [^16] It can only reproduce with human intervention. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/Viburnum_opulus_%27Roseum%27_Kalina_koralowa_odm._p%C5%82onna_2021-06-02_02.jpg" label= "Roseum—the sterile cultivar of the guelder rose" license="CC BY-SA 4.0">
 <param ve-entity eid="Q4886">
 
-The guelder rose fruit has a bitter taste due to the presence of saponin glycosides and slightly toxic viburnine.[^17] It is usually cooked or frozen before human consumption. The plant’s berries ripen in the fall but remain on the shoots till  winter. This is because seed dispersers, which are integral to plant reproduction, are averse to their taste, preferring to eat more palatable fruits and turning to the guelder rose berries only when food is scarce.[^18]. These bright red berries that persist through most of winter form a powerful image. They signal how the interplay between the plant’s reproductive clock and the landscape’s seasonal transformation could become culturally significant: the red fruit stands out against the white snow of winter, particularly in regions with harsher winters like Ukraine and Russia. 
+The guelder rose fruit has a bitter taste due to the presence of saponin glycosides and slightly toxic viburnine.[^17] It is usually cooked or frozen before human consumption. The plant’s berries ripen in the fall but remain on the shoots till  winter. This is because seed dispersers, which are integral to plant reproduction, are averse to their taste, preferring to eat more palatable fruits and turning to the guelder rose berries only when food is scarce.[^18] The bright red berries thus persist through most of winter, forming a powerful image. They signal how the interplay between the plant’s reproductive clock and the landscape’s seasonal transformation could become culturally significant: the red fruit stands out against the white snow of winter, particularly in regions with harsher winters like Ukraine and Russia. 
 <param ve-entity eid="Q207653">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/66/Viburnum_opulus_180050525.jpg" label="Guelder Rose berries in the snow" license="CC BY-SA 4.0">
 
