@@ -63,9 +63,9 @@ This seeming confusion spills into the plant’s nomenclature as well. The name 
 <param ve-d3plus-ring-network 
        url="https://raw.githubusercontent.com/annamarissahogarth/viburnumopulus/main/namewheel_ViburnumOpulus.tsv"
        center="Viburnum Opulus"
-       title="The many names of the guelder rose.>
+       title="The many names of the guelder rose.">
 
-In fact, the first recorded use of the term evolutionary biology was by the naturalist Grant Allen in relation to the guelder rose. [^13] In his 1881 text _Vignettes from Nature_, Allen writes about the “self-same odd, outgrown outer flowers” of the guelder rose that make it extremely fascinating from the point of view of evolutionary biology. These outer flowers, Allen writes, look like the petals of another plant “deftly arranged or pinned by some mischievous boy” onto the plant in order “to hoax the unwary botanist with a cunning deception.”[^14]
+In fact, the first recorded use of the term evolutionary biology was by the naturalist Grant Allen in relation to the guelder rose.[^13] In his 1881 text _Vignettes from Nature_, Allen writes about the “self-same odd, outgrown outer flowers” of the guelder rose that make it extremely fascinating from the point of view of evolutionary biology. These outer flowers, Allen writes, look like the petals of another plant “deftly arranged or pinned by some mischievous boy” onto the plant in order “to hoax the unwary botanist with a cunning deception.”[^14]
 <param ve-entity eid="Q840400">
 <param ve-iframe src="https://archive.org/details/vignettesfromnat00alleuoft/page/93/mode/1up?view=theater"
        title="Vignettes from Nature, by Grant Allen>
@@ -78,7 +78,7 @@ The trick of the guelder-rose lies in its morphology: <span data-mouseover-image
 <param ve-entity eid="Q156428">
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/f/f5/Viburnum_opulus001.jpg"
-       label="GuelderRrose Flowers"
+       label="Guelder Rose Flowers"
        description="the white guelder rose flowers"
        license="CC BY-SA 3.0">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/Byhlen_Viburnum_opulus_Protaetia_cuprea_05.jpg" label="The Copper Chafer, a pollinator, on the fertile inner flowers" license="CC BY-SA 4.0">
