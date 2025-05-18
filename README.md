@@ -56,7 +56,7 @@ The guelder rose seems to elude precise classification. Taxonomically, it belong
 <param ve-entity eid="Q156301">
 <param ve-entity eid="Q156047">
 <param ve-entity eid="Q3391537">
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.BM000558413">
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.bm000558413">
 
 
 This seeming confusion spills into the plant’s nomenclature as well. The name guelder rose is itself a misnomer, since the plant is not a rose as commonly understood, nor is it part of the botanical rose family, _Rosaceae_. And while “guelder” seems to relate to the Gelderland region in the Netherlands, the plant has no significant relationship of origin or cultural importance to that region. It has also been called the European guelder, water elder, rose elder, Rose Ebru, cherry-wood, crampbark, and gilaburu in Turkey. Other names include Cranberry Bush and Snowball Tree, but both confound more than they explain, since the plant is not a cranberry, and the snowball is only a single cultivar of it. In Ukranian the plant is called kalyna and in Russian kalina, having a phonetic difference between the two names. The plant occurs in other Slavic languages such as Polish and Belarusian (kalina in Polish and каліна in Belarusian). Its scientific name, _Viburnum opulus_, results in similar confusion: viburnum is Latin for the wayfaring tree,[^11] and opulus is Latin for the maple tree.[^12] While these other plants are used to define the guelder rose, its own individuality seems almost slippery. 
