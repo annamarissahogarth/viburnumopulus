@@ -38,7 +38,7 @@ Since these seeds were uncharred, the evidence probably shows their collection p
 <param ve-map-layer geojson url="map_prehistoric.json">
        
 
-Greeneenagh, a cooking pit, shows evidence that other uses were found for the guelder rose in later periods. It includes a <span data-mouseover-image-zoomto="456,296,239,189"> silty-clay trough</span>—used for heating water by fire-reddened stones, which in turn were heated by burning wood—that contained wooden charcoal from the guelder rose tree, the wood dating between 791 BCE and 419 BCE[^8]. 
+Greeneenagh, a cooking pit, shows evidence that other uses were found for the guelder rose in later periods. It includes a <span data-mouseover-image-zoomto="456,296,239,189"> silty-clay trough</span>—used for heating water by fire-reddened stones, which in turn were heated by burning wood—that contained wooden charcoal from the guelder rose shrub, the wood dating between 791 BCE and 419 BCE[^8]. 
 <param ve-entity eid="Q3778145">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/28/Fulacht_Fiadh_at_Drombeg_Stone_Circle_County_Cork%2C_Ireland.jpg" fit="contain" title="A Fulacht Fiadt at Dromberg Stone Circle, Country Cork, Ireland." attribution="Wikimedia Commons" license="public domain">
 
@@ -49,26 +49,26 @@ As these data show, the guelder rose is native to the paleoarctic regions and ha
 
 ### Resisting Classification: Taxonomy & Nomenclature 
 
-The Guelder Rose seems to elude precise classification. Taxonomically, it belongs to the _Viburnum_ Genus, a clade of flowering plants that consists of shrubs and small trees. The Guelder-Rose was initially placed in the _Caprifoliaceae_ family, commonly known as the Honeysuckle family, which is popularly known for its species that have the status of being invasive in their introduced habitats. The Guelder-Rose was reclassified by the Angiosperm Phylogeny Group to being part of the _Adoxaceae_ family. However, this group is often also termed as the _Viburnaceae_[^9]. The issue of classification is not entirely settled[^10].
+The guelder rose seems to elude precise classification. Taxonomically, it belongs to the _Viburnum_ genus within the _Adoxaceae family_, which is often termed the _Viburnaceae_ family.[^9] Until 1998, this entire family of plants was placed within _Caprifoliaceae_, commonly known as the honeysuckle family, some species of which have been regarded as invasive in their introduced habitats.[^10]
 <param ve-entity eid="Q34740">
 <param ve-entity eid="Q156301">
 <param ve-entity eid="Q156047">
 <param ve-entity eid="Q156677">
 <param ve-entity eid="Q2652443">
-<param ve-compare curtain label="slide mouse to compare" description="Photograph" license="public domain" url="https://plants-jstor-org.amherst.idm.oclc.org/seqapp/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=/jp2/fpx/alukaplant/abfm/phase_01/abfm0003/abfm00493.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=3&svc.rotate=0&svc.region=0,0,616,453">
+<param ve-compare curtain label="slide mouse to compare" description="Photograph" license="public domain" url="https://plants-jstor-org.amherst.idm.oclc.org/seqapp/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=/jp2/fpx/alukaplant/abfm/phase_01/abfm0003/abfm00493.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=3&svc.rotate=0&svc.region=0,0,616,453" title="Herbarium specimens of the guelder rose.>
 <param ve-compare label="slide mouse to compare" description="Photograph" license="public domain" url="https://plants-jstor-org.amherst.idm.oclc.org/seqapp/adore-djatoka/resolver?url_ver=Z39.88-2004&rft_id=/jp2/fpx/alukaplant/abfm/phase_01/abfm0008/abfm00488.jp2&svc_id=info:lanl-repo/svc/getRegion&svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&svc.format=image/jpeg&svc.level=3&svc.rotate=0&svc.region=0,0,627,444">
 
-
-This seeming confusion spills into the plant’s nomenclature as well: the term Guelder Rose itself is a misnomer, since the plant is not a rose. Simultaneously, the word Guelder gestures to the Gelderland region of the Netherlands, but the plant has no significant relationship of origin or importance to the region. The plant is also called the European guelder, water elder, rose elder, Rose Ebru, cherry-wood, crampbark, and as gilaburu in Turkey. Other names of the plant include Cranberry Bush and Snowball Tree—but both of these confound more than they explain, since the plant is not a Cranberry, and the Snowball is only a single cultivar of it. Its scientific name, _Viburnum Opulus_, has a similar confusion: _Viburnum_ is Latin for the wayfaring tree[^11], and _Opulus_ is Latin for the maple tre [^12]. These other plants are used to signify the Guelder Rose, but its own individuality seems almost slippery. In Ukrainian, Russian, and Polish—the regions where the plant is highly commonplace and holds key symbolic power—it is called Kalyna.
+This seeming confusion spills into the plant’s nomenclature as well. The name guelder rose is itself a misnomer, since the plant is not a rose as commonly understood, nor is it part of the botanical rose family, _Rosaceae_. And while “guelder” seems to relate to the Gelderland region in the Netherlands, the plant has no significant relationship of origin or cultural importance to that region. It has also been called the European guelder, water elder, rose elder, Rose Ebru, cherry-wood, crampbark, and gilaburu in Turkey. Other names include Cranberry Bush and Snowball Tree, but both confound more than they explain, since the plant is not a cranberry, and the snowball is only a single cultivar of it. In Ukranian the plant is called kalyna and in Russian kalina, having a phonetic difference between the two names. The plant occurs in other Slavic languages such as Polish and Belarusian (kalina in Polish and каліна in Belarusian). Its scientific name, _Viburnum opulus_, results in similar confusion: viburnum is Latin for the wayfaring tree,[^11] and opulus is Latin for the maple tree.[^12] While these other plants are used to define the guelder rose, its own individuality seems almost slippery. 
 <param ve-entity eid="Q775">
 <param ve-d3plus-ring-network 
        url="https://raw.githubusercontent.com/annamarissahogarth/viburnumopulus/main/namewheel_ViburnumOpulus.tsv"
-       center="Viburnum Opulus">
+       center="Viburnum Opulus"
+       title="The many names of the guelder rose.>
 
-
-The first recorded use of the term evolutionary biology was in relation to the Guelder-Rose[^13] by the naturalist Grant Allen—in his 1881 text _Vignettes from Nature_, Allen speaks about the “self-same odd, outgrown outer flowers” of the guelder-rose that make it extremely fascinating for the field of evolutionary biology. These outer flowers, Allen writes, look like the petals of another plant “deftly arranged or pinned by some mischievous boy” onto the plant in order “to hoax the unwary botanist with a cunning deception”[^14] The form of the guelder-rose is compared to a mystery, as if a trick is being played on the botanist attempting to study it. 
+In fact, the first recorded use of the term evolutionary biology was by the naturalist Grant Allen in relation to the guelder rose. [^13] In his 1881 text _Vignettes from Nature_, Allen writes about the “self-same odd, outgrown outer flowers” of the guelder rose that make it extremely fascinating from the point of view of evolutionary biology. These outer flowers, Allen writes, look like the petals of another plant “deftly arranged or pinned by some mischievous boy” onto the plant in order “to hoax the unwary botanist with a cunning deception.”[^14]
 <param ve-entity eid="Q840400">
-<param ve-iframe src="https://archive.org/details/vignettesfromnat00alleuoft/page/93/mode/1up?view=theater">
+<param ve-iframe src="https://archive.org/details/vignettesfromnat00alleuoft/page/93/mode/1up?view=theater"
+       title="Vignettes from Nature, by Grant Allen>
 
 
 ### Morphology: Flower & Fruit 
@@ -208,19 +208,19 @@ The guelder rose, once a frequent symbol in Ukrainian, Russian, and British trad
 [^1]: Volodymyr Khlebnikov, “У КМДА Пояснили, Чому Монумент Незалежності На Майдані Не Захистили Від Можливих Обстрілів - Новини Києва | Big Kyiv,” Великий Київ, April 16, 2022, https://bigkyiv.com.ua/u-kmda-poyasnyly-chomu-monument-nezalezhnosti-na-majdani-ne-zahystyly-vid-mozhlyvyh-obstriliv/.
 [^2]: Roman Cybriwsky, “The Center of Kyiv,” in Kyiv, Ukraine - Revised Edition: The City of Domes and Demons from the Collapse of Socialism to the Mass Uprising of 2013-2014 (Amsterdam University Press, 2016), https://www.jstor.org/stable/j.ctt1b9x2zb.10.
 [^3]: Owen Hatherley, “Architects of Revolt: The Kiev Square That Sparked Ukraine’s Insurrection,” The Guardian, April 8, 2014, sec. Cities, https://www.theguardian.com/cities/2014/apr/08/architects-revolt-kiev-maidan-square-ukraine-insurrection. 
-[^4]: Kubiak-Martens, Lucyna. “The Plant Food Component of the Diet at the Late Mesolithic (Ertebølle) Settlement at Tybrind Vig, Denmark.” Vegetation History and Archaeobotany 8, no. 1/2 (1999): 117–27. http://www.jstor.org/stable/23417650.
-[^5]: Mitchell, G. F. “Some Ultimate Larnian Sites at Lake Derravaragh, Co. Westmeath.” The Journal of the Royal Society of Antiquaries of Ireland 102, no. 2 (1972): 160–73. http://www.jstor.org/stable/25509791.
-[^6]: Aimée Little. “Clonava Island Revisited: A Story of Cooking, Plants and Re-Occupation during the Irish Late Mesolithic.” Proceedings of the Royal Irish Academy: Archaeology, Culture, History, Literature 114C (2014): 35–55. https://doi.org/10.3318/priac.2014.114.09.
-[^7]: Deforce, Koen, Jan Bastiaens, Wim Van Neer, Anton Ervynck, An Lentacker, Joris Sergant, and Philippe Crombé. “Wood Charcoal and Seeds as Indicators for Animal Husbandry in a Wetland Site during the Late Mesolithic—Early Neolithic Transition Period (Swifterbant Culture, ca. 4600—4000 B.C.) in NW Belgium.” Vegetation History and Archaeobotany 22, no. 1 (2013): 51–60. http://www.jstor.org/stable/23419912.
-[^8]: Jones, Martin. “Eating Out: Prehistoric Food Preparation Sites On The Route of The Loughrea Bypass, Co. Galway.” Journal of the Galway Archaeological and Historical Society 59 (2007): 149–57. http://www.jstor.org/stable/20696608.
-[^9]: “An Update of the Angiosperm Phylogeny Group Classification for the Orders and Families of Flowering Plants: APG IV,” Botanical Journal of the Linnean Society 181, no. 1 (March 24, 2016): 1–20, https://doi.org/10.1111/boj.12385.
-[^10]: “Viburnaceae Raf. | Plants of the World Online | Kew Science,” Plants of the World Online, n.d., https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77162522-1.
-[^11]: “Charlton T. Lewis, Charles Short,  A Latin Dictionary,
+[^4]: Kubiak-Martens, Lucyna. “The Plant Food Component of the Diet at the Late Mesolithic (Ertebølle) Settlement at Tybrind Vig, Denmark,” Vegetation History and Archaeobotany 8, no. 1/2 (1999): 117–127. http://www.jstor.org/stable/23417650.
+[^5]: Mitchell, G. F. “Some Ultimate Larnian Sites at Lake Derravaragh, Co. Westmeath,” The Journal of the Royal Society of Antiquaries of Ireland 102, no. 2 (1972): 160–173. http://www.jstor.org/stable/25509791.
+[^6]: Little, Aimée. “Clonava Island Revisited: A Story of Cooking, Plants and Re-Occupation during the Irish Late Mesolithic,” Proceedings of the Royal Irish Academy: Archaeology, Culture, History, Literature 114C (2014): 35–55. https://doi.org/10.3318/priac.2014.114.09.
+[^7]: Deforce, Koen et al.  “Wood Charcoal and Seeds as Indicators for Animal Husbandry in a Wetland Site during the Late Mesolithic—Early Neolithic Transition Period (Swifterbant Culture, ca. 4600—4000 B.C.) in NW Belgium,” Vegetation History and Archaeobotany 22, no. 1 (2013): 51–60. http://www.jstor.org/stable/23419912.
+[^8]: Jones, Martin. “Eating Out: Prehistoric Food Preparation Sites On The Route of The Loughrea Bypass, Co. Galway,” Journal of the Galway Archaeological and Historical Society 59 (2007): 149–57. http://www.jstor.org/stable/20696608.
+[^9]: An Update of the Angiosperm Phylogeny Group Classification for the Orders and Families of Flowering Plants: APG IV,” Botanical Journal of the Linnean Society 181, no. 1 (March 24, 2016): 1–20. https://doi.org/10.1111/boj.12385.
+[^10]: The Angiosperm Phylogeny Group. “An Ordinal Classification for the Families of Flowering Plants,” Annals of the Missouri Botanical Garden 85, no. 4 (1998): 531–553. https://doi.org/10.2307/2992015.
+[^11]:   “Charlton T. Lewis, Charles Short.  A Latin Dictionary,
 Vīburnum,” n.d. https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=viburnum&highlight=viburnum.
-[^12]: “Charlton T. Lewis, Charles Short,  A Latin Dictionary,
+[^12]: “Charlton T. Lewis, Charles Short.  A Latin Dictionary,
 Ŏpŭlus,” n.d. https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059:entry=opulus&highlight=opulus.
-[^13]: Smocovitis, V. B. “Unifying Biology: The Evolutionary Synthesis and Evolutionary Biology.” Journal of the History of Biology 25, no. 1 (1992): 1–65. http://www.jstor.org/stable/4331201
-[^14]: Allen, Grant. Vignettes from Nature., 1881. https://doi.org/10.5962/bhl.title.25377.
+[^13]: Smocovitis, V. B. “Unifying Biology: The Evolutionary Synthesis and Evolutionary Biology,” Journal of the History of Biology 25, no. 1 (1992): 1–65. http://www.jstor.org/stable/4331201.
+[^14]: Allen, Grant. Vignettes from Nature (London: Chatto & Windus, 1881). https://doi.org/10.5962/bhl.title.25377.
 [^15]: Kollmann, Johannes, and Peter J. Grubb. “Viburnum Lantana L. and Viburnum Opulus L. (V. Lobatum Lam., Opulus Vulgaris Borkh.).” Journal of Ecology 90, no. 6 (2002): 1044–70. http://www.jstor.org/stable/3072311.
 [^16]: “Viburnum Opulus ‘Roseum’  - Plant Finder,” n.d. https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=254951.
 [^17]: Mazur, Monika, Jakub Szperlik, Anna Marietta Salejda, Grażyna Krasnowska, Joanna Kolniak-Ostek, and Przemysław Bąbelewski. 2021. "Description of the Guelder Rose Fruit in Terms of Chemical Composition, Antioxidant Capacity and Phenolic Compounds" Applied Sciences 11, no. 19: 9221. https://doi.org/10.3390/app11199221
