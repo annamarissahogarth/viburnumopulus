@@ -19,7 +19,9 @@ Why was the guelder rose (_Viburnum opulus_) plant featured on such a prominent 
 
 ### Prehistoric Roots 
 
-The guelder-rose has a long-standing relationship with human settlements and culture. This begins all the way from the prehistoric period: <span data-mouseover-map-flyto="55.394211, 9.810635,9">Tybrind Vig</span>, a late Mesolithic coastal settlement of the Ertebølle culture located in present-day Denmark, dated to about 5600-4000 BC, was found to have charred remains of guelder rose seeds[^4]. Since the berries have to be cooked prior to eating, this shows that the guelder rose berries were cooked and consumed at the site. Clusters of guelder rose seeds were also found lying at  <span data-mouseover-map-flyto="53.66606747099045, -7.420011008004994,9">Clonava-1</span>[^5], an island site at Lake Derravagh, present-day Co. Westmeath, Ireland, which is a remnant of the mesolithic Larnian culture.  Since these seeds were found to be uncharred, it is possible this shows their collection prior to being prepared for consumption[^6]. <span data-mouseover-map-flyto="51.285347, 4.251812,9">Doel Sector M</span>, a Swifterbant site dated to the late mesolithic-early neolithic transition period (ca. 4600—4000 B.C.), located in present-day Northwest Belgium, shows remains of guelder-rose berries and seeds as well[^7]. Another site, dating to the later Bronze Age, is at <span data-mouseover-map-flyto="53.20698674768145, -8.551325620026535,9">Greeneenagh</span> in Ireland. 
+The guelder rose has long played a prominent role in human culture and can be traced back to the prehistoric period. Charred remains of its seeds were found in <span data-mouseover-map-flyto="55.394211, 9.810635,9">Tybrind Vig</span>, a late Mesolithic coastal settlement of the Ertebølle culture dated to 5600–4000 BCE.[^4] Since the berries have to be cooked prior to eating, this record shows that they were cooked and consumed at the site. 
+Clusters of guelder rose seeds were also found at <span data-mouseover-map-flyto="53.66606747099045, -7.420011008004994,9">Clonava-1</span>, , an island site at Lake Derravaragh in present-day County Westmeath, Ireland, which is a remnant of the Mesolithic Larnian culture.[^5]
+Since these seeds were uncharred, the evidence probably shows their collection prior to being prepared for consumption.[^6] <span data-mouseover-map-flyto="51.285347, 4.251812,9">Doel Sector M</span>, a Swifterbant site in present-day northwest Belgium, dated to the late Mesolithic-early Neolithic transition period (ca. 4600–4000 BCE), has remains of guelder rose berries and seeds.[^7] Another site dating to the later Bronze Age, is <span data-mouseover-map-flyto="53.20698674768145, -8.551325620026535,9">Greeneenagh</span> in Ireland. 
 <param ve-entity eid="Q11756">
 <param ve-entity eid="Q103971144">
 <param ve-entity eid="Q44155">
@@ -30,20 +32,19 @@ The guelder-rose has a long-standing relationship with human settlements and cul
 <param ve-map basemap="Esri_WorldPhysical"
        center="Q46"
        zoom="4"
-       title="Prehistoric Sites with Evidence of Guelder Rose Usage"
+       title="Prehistoric Sites with evidence of guelder rose usage"
        show-labels="true"
        >
 <param ve-map-layer geojson url="map_prehistoric.json">
        
 
-Greeneenagh shows evidence that  Guelder Rose found use beyond just consumption in later periods of prehistory. Greeneenagh was a fulacht fiadt, a site that resembles a burning mound, used for food preparation. The <span data-mouseover-image-zoomto="456,296,239,189"> silty-clay trough </span> at the site was used for heating water by fire-reddened stones which in turn were warmed by burning wood. This wood was identified as being from the Guelder Rose Tree, dating to a time range of 791-419 BC[^8]. 
+Greeneenagh, a cooking pit, shows evidence that other uses for the guelder rose were found in later periods. It includes a <span data-mouseover-image-zoomto="456,296,239,189"> silty-clay trough</span>—used for heating water by fire-reddened stones, which in turn were heated by burning wood—that contained wooden charcoal from the guelder rose tree, the wood dating between 791 BCE and 419 BCE[^8]. 
 <param ve-entity eid="Q3778145">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/28/Fulacht_Fiadh_at_Drombeg_Stone_Circle_County_Cork%2C_Ireland.jpg" fit="contain" title="a Fulacht Fiadt at Dromberg Stone Circle, Country Cork, Ireland" attribution="Wikimedia Commons" license="public domain">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/28/Fulacht_Fiadh_at_Drombeg_Stone_Circle_County_Cork%2C_Ireland.jpg" fit="contain" title="A Fulacht Fiadt at Dromberg Stone Circle, Country Cork, Ireland." attribution="Wikimedia Commons" license="public domain">
 
-
-As the prehistoric data shows, the Guelder Rose is native to the paleoarctic, and it has been used for varied purposes for millennia in regions of Europe. Throughout history, the guelder rose has been introduced to wider ranges of geography. As it moves across boundaries of culture, time, and space, the Guelder Rose takes on new significations and meanings—some of which seem entirely contradictory, but each is still tied intrinsically to the plant’s morphology. 
+As these data show, the guelder rose is native to the paleoarctic regions and has been used in Europe for millennia. Today, it enjoys a much wider geographical range. As it moves across boundaries of culture, time, and geography, the plant takes on new significations and meanings. While some of them may seem contradictory, each is tied to the plant’s character and morphology. 
 <param ve-entity eid="Q106447">
-<param ve-map basemap="Esri_WorldPhysical" center="Q46" zoom="1" title="Distribution of the Guelder Rose: Native regions in red, introduced regions in yellow. Source: Royal Botanic Gardens, Kew">
+<param ve-map basemap="Esri_WorldPhysical" center="Q46" zoom="1" title="Distribution of the guelder rose: native regions in red, introduced regions in yellow. Source: Royal Botanic Gardens, Kew.">
 <param ve-map-layer geojson url="map_distribution.json">
 
 ### Resisting Classification: Taxonomy & Nomenclature 
