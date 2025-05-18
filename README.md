@@ -38,7 +38,7 @@ Since these seeds were uncharred, the evidence probably shows their collection p
 <param ve-map-layer geojson url="map_prehistoric.json">
        
 
-Greeneenagh, a cooking pit, shows evidence that other uses for the guelder rose were found in later periods. It includes a <span data-mouseover-image-zoomto="456,296,239,189"> silty-clay trough</span>—used for heating water by fire-reddened stones, which in turn were heated by burning wood—that contained wooden charcoal from the guelder rose tree, the wood dating between 791 BCE and 419 BCE[^8]. 
+Greeneenagh, a cooking pit, shows evidence that other uses were found for the guelder rose in later periods. It includes a <span data-mouseover-image-zoomto="456,296,239,189"> silty-clay trough</span>—used for heating water by fire-reddened stones, which in turn were heated by burning wood—that contained wooden charcoal from the guelder rose tree, the wood dating between 791 BCE and 419 BCE[^8]. 
 <param ve-entity eid="Q3778145">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/28/Fulacht_Fiadh_at_Drombeg_Stone_Circle_County_Cork%2C_Ireland.jpg" fit="contain" title="A Fulacht Fiadt at Dromberg Stone Circle, Country Cork, Ireland." attribution="Wikimedia Commons" license="public domain">
 
