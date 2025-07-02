@@ -226,6 +226,7 @@ Phillips, Henry. n.d. _Floral Emblems_ (London: Saunders and Otley). https://www
 [^30]: Cholodova, 2017.
 [^31]: Chomitzky, Katya. “Pandemic, but Make It Fashion: Ukrainian Embroidered PPE in the Time of COVID-19,” _Folklorica_ 24 (2020): 27–50.
 Rikoun, Polina. “Confronting ‘The Elder Brother’: Ukrainian-Russian Relations in Oleksandr Ilchenko’s Novel ‘Kozats’komu Rodu Nema Perevodu,’” _The Slavic and East European Journal_ vol. 56, no. 1 (2012): 71–90. https://www.jstor.org/stable/41698441.
+[^32]: https://www.gutenberg.org/ebooks/68486.
 [^40]: Parker, Harbison. “‘The Twa Sisters.’ Going Which Way?” The Journal of American Folklore 64, no. 254 (1951): 347–360. https://doi.org/10.2307/537003.
 [^41]: Karbashevska Oksana, "English Folk Ballads Collected By Cecil James Sharp in The Southern Appalachians: Genesis, Transformation and Ukrainian Parallels," Journal of Vasyl Stefanyk Precarpathian National University Vol. 1, no. 2, 3 (2014): 79-85.
 [^42]: Zabuzhko, Oksana. “Oh Sister, My Sister.” Your Ad Could Go Here, translated by Halyna Hryn (Seattle: Amazon Crossing, 2018).
