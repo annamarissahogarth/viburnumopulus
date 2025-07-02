@@ -203,31 +203,31 @@ Vīburnum,” n.d. https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:19
 [^16]: “Viburnum Opulus ‘Roseum’  - Plant Finder,” n.d. https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=254951.
 [^17]: Mazur, Monika, Jakub Szperlik, Anna Marietta Salejda, Grażyna Krasnowska, Joanna Kolniak-Ostek, and Przemysław Bąbelewski. 2021. "Description of the Guelder Rose Fruit in Terms of Chemical Composition, Antioxidant Capacity and Phenolic Compounds" Applied Sciences 11, no. 19: 9221. https://doi.org/10.3390/app11199221
 [^18]: Witmer, Mark C. “Nutritional Interactions and Fruit Removal: Cedar Waxwing Consumption of Viburnum Opulus Fruits in Spring.” Ecology 82, no. 11 (2001): 3120–30. https://doi.org/10.2307/2679839.
-[^21]: Orysia Tracz, “The Kalyna in Ukrainian Folk Medicine and Folklore,” Prairie Garden, January 1, 2006, 119–23.
-[^22]: Kubilius, “In Russia the Color Red Represents More Than You Know,” ThoughtCo, 2019, https://www.thoughtco.com/red-in-russian-culture-1502319.
-[^23]: Hale, Sarah Josepha Buell. n.d. Flora’s Interpreter, and Fortuna Flora. Revised and Enlarged edition, with New illustrations. Boston: Sanborn, Carter and Bazin. https://www.biodiversitylibrary.org/item/110416.
-Bramald, and Bramald. 1880. The Bible Language of Flowers. London: M. Ward & co., ltd. https://www.biodiversitylibrary.org/item/268334.
-Phillips, Henry. n.d. Floral Emblems. London: Saunders and Otley. https://www.biodiversitylibrary.org/item/68864.
+[^19]: Tracz, Orysia. “The Kalyna in Ukrainian Folk Medicine and Folklore,” _Prairie Garden_, January 1, 2006, 119–123.
+[^20]: Kubilius, Kerry. “In Russia the Color Red Represents More Than You Know.” (New York: ThoughtCo., 2019). https://www.thoughtco.com/red-in-russian-culture-1502319.
+[^23]: Hale, Sarah Josepha Buell. n.d. _Flora’s Interpreter, and Fortuna Flora,_ revised and enlarged edition, with new illustrations. (Boston: Sanborn, Carter and Bazin). https://www.biodiversitylibrary.org/item/110416.
+Bramald and Bramald. _The Bible Language of Flowers_ (London: M. Ward & Co., Ltd., 1880). 
+Phillips, Henry. n.d. _Floral Emblems_ (London: Saunders and Otley). https://www.biodiversitylibrary.org/item/68864.
 [^24]: William H. Camden Edwards et al., Eden, or, A Compleat Body of Gardening ?Containing Plain and Familiar Directions for Raising the Several Useful Products of a Garden, Fruits, Roots, and Herbage, from the Practice of the Most Successful Gardeners, and the Result of a Long Experience ... /Compiled and Digested from the Papers of the Late Celebrated Mr. Hale ; by the Authors of the Compleat Body of Husbandry ... (London : Printed for T. Osborne [and 3 others], 1757), http://archive.org/details/mobot31753000809647.
-[^25]: Vadim Prokhorov, Russian Folk Songs : Musical Genres and History (Lanham, Md. : Scarecrow Press, 2002), http://archive.org/details/russianfolksongs0000prok.
-[^26]: “Kalina. Symbolism and Reference in Folklore Калина. Символика и Упоминание в Фольклоре,” accessed August 5, 2023, https://w-book.diary.ru/p183442904.htm?oam.
-[^27]: “Презентация По Литературе Повесть В.М. Шукшина «Калина Красная» в 9 Классе.,” accessed August 5, 2023, https://znanio.ru/media/prezentatsiya_po_literature_povest_vm_shukshina_kalina_krasnaya_v_9_klasse-267761.
-[^28]: Fyodor Dostoevsky (1821-1881), The Brothers Karamazov (Bicentennial Edition): A Novel in Four Parts With Epilogue (Picador, 2021).
-[^29]: Uljana Cholodova, “SYMBOLS AND MYTHOLOGICAL PICTURE OF THE WORLD TROUGH UKRAINIAN FOLK SONGS,” Idil Journal of Art and Language 6, no. 39 (December 20, 2017), https://doi.org/10.7816/idil-06-39-04 p. 3045.
-[^30]: “UNESCO - Petrykivka Decorative Painting as a Phenomenon of the Ukrainian Ornamental Folk Art,” accessed August 5, 2023, https://ich.unesco.org/en/RL/petrykivka-decorative-painting-as-a-phenomenon-of-the-ukrainian-ornamental-folk-art-00893. 
-[^31]: "Ukraine : Petrykivka painting is included into the List of the Intangible Cultural Heritage of Humanity of UNESCO." Mena Report, December 6, 2013. Gale Academic OneFile (accessed August 5, 2023). https://link-gale-com.amherst.idm.oclc.org/apps/doc/A351973028/AONE?u=mlin_w_amhercol&sid=ebsco&xid=ec4390d8. 
-[^32]: Kelsey Ables, “Ukrainian Artist Turns Antitank ‘Hedgehog’ into Symbol of Resistance,” Washington Post, August 21, 2022, https://www.washingtonpost.com/arts-entertainment/2022/08/20/ukraine-hedgehog-painter/.
-[^33]: “Магія вишивки Придніпров’я. Частина 2. Веселкові рушники,” accessed August 15, 2023, https://www.dnipro.libr.dp.ua/Vishivka_rushniki_ornamenti. 
-[^34]: Katie White, “Ukrainian Artist Maria Prymachenko’s Fantastical Visions Have Captivated the World—Here Are 3 Key Insights Into Her Life and Work,” Artnet News, March 15, 2022, https://news.artnet.com/art-world/maria-prymachenko-3-things-2083134.
-[^35]: Uljana Cholodova, “SYMBOLS AND MYTHOLOGICAL PICTURE OF THE WORLD TROUGH UKRAINIAN FOLK SONGS,” Idil Journal of Art and Language 6, no. 39 (December 20, 2017), https://doi.org/10.7816/idil-06-39-04 p. 3050
-[^36]: Marko Pavlyshyn, “Ukrainian Literature and the Erotics of Postcolonialism: Some Modest Propositions.” Harvard Ukrainian Studies 17, no. 1/2 (1993): 110–26. http://www.jstor.org/stable/41036504.
-[^37]: Alessandro Achilli, “Four Decades of Modernist Revolution: Creating a New Subjectivity in Ukrainian Poetry, 1900–1940.” Harvard Ukrainian Studies 38, no. 1/2 (2021): 107–34. https://www.jstor.org/stable/48694963.
-[^38]: Cholodova, 2017.
-[^39]: Katya Chomitzky, “Pandemic, but Make It Fashion: Ukrainian Embroidered PPE in the Time of COVID-19,” Folklorica 24 (2020): 27–50.
+[^37]: Prokhorov, Vadim, _Russian Folk Songs : Musical Genres and History_ (Lanham, Md.: Scarecrow Press, 2002). http://archive.org/details/russianfolksongs0000prok.
+[^38]: “Kalina. Symbolism and Reference in Folklore Калина. Символика и Упоминание в Фольклоре,” accessed August 5, 2023. https://w-book.diary.ru/p183442904.htm?oam.
+[^39]: “Презентация По Литературе Повесть В.М. Шукшина «Калина Красная» в 9 Классе,” accessed August 5, 2023. https://znanio.ru/media/prezentatsiya_po_literature_povest_vm_shukshina_kalina_krasnaya_v_9_klasse-267761.
+[^40]: Dostoevsky, Fyodor. _The Brothers Karamazov (Bicentennial Edition): A Novel in Four Parts With Epilogue_. (New York: Picador, 2021).
+[^21]: Cholodova, Uljana. “SYMBOLS AND MYTHOLOGICAL PICTURE OF THE WORLD THROUGH UKRAINIAN FOLK SONGS.” _Idil Journal of Art and Language_, 6, no. 39 (December 20, 2017), 3045. https://doi.org/10.7816/idil-06-39-04.
+[^22]: “UNESCO - Petrykivka Decorative Painting as a Phenomenon of the Ukrainian Ornamental Folk Art,” accessed August 5, 2023. https://ich.unesco.org/en/RL/petrykivka-decorative-painting-as-a-phenomenon-of-the-ukrainian-ornamental-folk-art-00893. 
+[^23]: "Ukraine: Petrykivka painting is included in the List of the Intangible Cultural Heritage of Humanity of UNESCO." Mena Report, December 6, 2013. Gale Academic OneFile (accessed August 5, 2023). https://link-gale-com.amherst.idm.oclc.org/apps/doc/A351973028/AONE?u=mlin_w_amhercol&sid=ebsco&xid=ec4390d8. 
+[^24]: Ables, Kelsey. “Ukrainian Artist Turns Antitank ‘Hedgehog’ into Symbol of Resistance,” Washington Post, August 21, 2022. https://www.washingtonpost.com/arts-entertainment/2022/08/20/ukraine-hedgehog-painter/.
+[^25]: “Магія вишивки Придніпров’я. Частина 2. Веселкові рушники,” accessed August 15, 2023. https://www.dnipro.libr.dp.ua/Vishivka_rushniki_ornamenti. 
+[^26]: White, Katie. “Ukrainian Artist Maria Prymachenko’s Fantastical Visions Have Captivated the World—Here Are 3 Key Insights Into Her Life and Work,” _Artnet News_, March 15, 2022. https://news.artnet.com/art-world/maria-prymachenko-3-things-2083134.
+[^27]: Uljana Cholodova, 3050. https://doi.org/10.7816/idil-06-39-04. 
+[^28]: Pavlyshyn, Marko. “Ukrainian Literature and the Erotics of Postcolonialism: Some Modest Propositions,” _Harvard Ukrainian Studies_ 17, no. 1/2 (1993): 110–126. http://www.jstor.org/stable/41036504.
+[^29]: Achilli, Alessandro. “Four Decades of Modernist Revolution: Creating a New Subjectivity in Ukrainian Poetry, 1900–1940,” _Harvard Ukrainian Studies_ 38, no. 1/2 (2021): 107–134. https://www.jstor.org/stable/48694963.
+[^30]: Cholodova, 2017.
+[^31]: Chomitzky, Katya. “Pandemic, but Make It Fashion: Ukrainian Embroidered PPE in the Time of COVID-19,” _Folklorica_ 24 (2020): 27–50.
+Rikoun, Polina. “Confronting ‘The Elder Brother’: Ukrainian-Russian Relations in Oleksandr Ilchenko’s Novel ‘Kozats’komu Rodu Nema Perevodu,’” _The Slavic and East European Journal_ vol. 56, no. 1 (2012): 71–90. https://www.jstor.org/stable/41698441.
 [^40]: Parker, Harbison. “‘The Twa Sisters.’ Going Which Way?” The Journal of American Folklore 64, no. 254 (1951): 347–360. https://doi.org/10.2307/537003.
 [^41]: Karbashevska Oksana, "English Folk Ballads Collected By Cecil James Sharp in The Southern Appalachians: Genesis, Transformation and Ukrainian Parallels," Journal of Vasyl Stefanyk Precarpathian National University Vol. 1, no. 2, 3 (2014): 79-85.
 [^42]: Zabuzhko, Oksana. “Oh Sister, My Sister.” Your Ad Could Go Here, translated by Halyna Hryn (Seattle: Amazon Crossing, 2018).
-[^43]: Rikoun, Polina. “Confronting ‘The Elder Brother’: Ukrainian-Russian Relations in Oleksandr Ilchenko’s Novel ‘Kozats’komu Rodu Nema Perevodu,.’” The Slavic and East European Journal vol. 56, no. 1 (2012): 71–90. https://www.jstor.org/stable/41698441.
 [^44]: Oleksandr, Ilʹchenko. Kozat︠S︡ʹkomu Rodu Nema Perevodu: Abo Zh, mamaĭ i chuz︠h︡a︡ molodyt︠s︡i︠a︡: Ukraĭnsʹkyĭ Khymernyĭ roman Z Narodnykh UST. Translated by Arsenii Ostrovskii and Georgii Shipov (Moscow: Khudozhestvennaia Literatura, 1970). 
 [^45]: “How a Ukrainian Folk Song Inspired Pink Floyd to Reform,” _BBC Radio_, [https://www.bbc.co.uk/programmes/articles/KhYB1tcj2qtjVzrxbq9BdY/how-a-ukrainian-folk-song-inspired-pink-floyd-to-reform.](https://www.bbc.co.uk/programmes/articles/KhYB1tcj2qtjVzrxbq9BdY/how-a-ukrainian-folk-song-inspired-pink-floyd-to-reform.)
 [^46]: Kohut, Zenon E. “The Development of a Little Russian Identity and Ukrainian Nationbuilding.” Harvard Ukrainian Studies 10, no. 3/4 (December 1986), 559–565.
