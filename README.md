@@ -197,7 +197,7 @@ Vīburnum,” n.d. https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:19
 [^16]: “Viburnum Opulus ‘Roseum’ - Plant Finder,” n.d. https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=254951.
 [^17]: Mazur, Monika et al.  "Description of the Guelder Rose Fruit in Terms of Chemical Composition, Antioxidant Capacity and Phenolic Compounds," _Applied Sciences_ 11, no. 19 (2021): 9221. https://doi.org/10.3390/app11199221.
 [^18]:  Witmer, Mark C. “Nutritional Interactions and Fruit Removal: Cedar Waxwing Consumption of Viburnum Opulus Fruits in Spring.” _Ecology_ 82, no. 11 (2001): 3120–30. https://doi.org/10.2307/2679839.
-[^19]  Hale, Sarah Josepha Buell. n.d. Flora’s Interpreter, and Fortuna Flora, revised and enlarged edition, with new illustrations. (Boston: Sanborn, Carter and Bazin). https://www.biodiversitylibrary.org/item/110416.
+[^19:]  Hale, Sarah Josepha Buell. n.d. Flora’s Interpreter, and Fortuna Flora, revised and enlarged edition, with new illustrations. (Boston: Sanborn, Carter and Bazin). https://www.biodiversitylibrary.org/item/110416.
 Bramald and Bramald. _The Bible Language of Flowers_ (London: M. Ward & Co., Ltd., 1880). https://www.biodiversitylibrary.org/item/268334.
 Phillips, Henry. n.d. _Floral Emblems_ (London: Saunders and Otley). https://www.biodiversitylibrary.org/item/68864.
 [^20]: Tracz, Orysia. “The Kalyna in Ukrainian Folk Medicine and Folklore,” _Prairie Garden_, January 1, 2006, 119–123.
