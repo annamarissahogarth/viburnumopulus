@@ -12,7 +12,7 @@ In the center of Kyiv is the Independence Monument comprising a triumphal column
 <param ve-entity eid="Q3917633">
 <param ve-entity eid="Q2622635">
 
-Why was the guelder rose (_Viburnum opulus_) featured on the national monument? Called _kalyna_ (калина) in Ukrainian and _kalina_ (калина) in Russian,[2] it is an important symbol and a historically beloved cultural plant in both nations. For Ukraine, it represents independence, making the monument a perfect fit for its location: the <span data-mouseover-map-flyto="50.449486986444576, 30.525408954596692,14">Maidan Square.</span> Also called Maidan Nezalezhnosti, the square has a long history of civic and political action. Student revolutions occurred there in 1905 and 1917; the Revolution on Granite in 1990; protests in 2000; Orange Revolution in 2004; and Euromaidan in 2013.[^3] The guelder rose not only stands for continued nationhood in Berehynia’s hands, but is sung about and referenced across Ukraine today. The modest flowering plant has come to represent Ukrainian loyalty, homeland, struggle, and protest as it joins the fight for Ukrainian resilience and independence from Russia. 
+Why was the guelder rose (_Viburnum opulus_) featured on the national monument? Called _kalyna_ (калина) in Ukrainian and _kalina_ (калина) in Russian,[^2] it is an important symbol and a historically beloved cultural plant in both nations. For Ukraine, it represents independence, making the monument a perfect fit for its location: the <span data-mouseover-map-flyto="50.449486986444576, 30.525408954596692,14">Maidan Square.</span> Also called Maidan Nezalezhnosti, the square has a long history of civic and political action. Student revolutions occurred there in 1905 and 1917; the Revolution on Granite in 1990; protests in 2000; Orange Revolution in 2004; and Euromaidan in 2013.[^3] The guelder rose not only stands for continued nationhood in Berehynia’s hands, but is sung about and referenced across Ukraine today. The modest flowering plant has come to represent Ukrainian loyalty, homeland, struggle, and protest as it joins the fight for Ukrainian resilience and independence from Russia. 
 <param ve-entity eid="Q156928">
 <param ve-entity eid="Q863759">
 <param ve-map title="Map of Ukraine with zoom in to Kyiv." center="50.45078729260635, 30.522990497009793" zoom="6”>
@@ -56,13 +56,9 @@ The guelder rose seems to elude precise classification. Taxonomically, it belong
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.bm000558413">
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.abfm00488" label="Herbarium specimens of the guelder rose">
 
-
 This seeming confusion spills into the plant’s nomenclature as well. The name guelder rose is itself a misnomer, since the plant is not a rose as commonly understood, nor is it part of the botanical rose family, _Rosaceae_. And while “guelder” seems to relate to the Gelderland region in the Netherlands, the plant has no significant relationship of origin or cultural importance to that region. It has also been called the European guelder, water elder, rose elder, Rose Ebru, cherry-wood, crampbark, and gilaburu in Turkey. Other names include Cranberry Bush and Snowball Tree, but both confound more than they explain, since the plant is not a cranberry, and the snowball is only a single cultivar of it. In Ukranian the plant is called kalyna and in Russian kalina, having a phonetic difference between the two names. The plant occurs in other Slavic languages such as Polish and Belarusian (kalina in Polish and каліна in Belarusian). Its scientific name, _Viburnum opulus_, results in similar confusion: viburnum is Latin for the wayfaring tree,[^11] and opulus is Latin for the maple tree.[^12] While these other plants are used to define the guelder rose, its own individuality seems almost slippery. 
 <param ve-entity eid="Q775">
-<param ve-d3plus-ring-network 
-       url="https://raw.githubusercontent.com/annamarissahogarth/viburnumopulus/main/namewheel_ViburnumOpulus.tsv"
-       center="Viburnum Opulus"
-       label="The many names of the guelder rose.">
+<param ve-image url="guelder rose - name cloud.jpeg" fit="contain">
 
 In fact, the first recorded use of the term evolutionary biology was by the naturalist Grant Allen in relation to the guelder rose.[^13] In his 1881 text _Vignettes from Nature_, Allen writes about the “self-same odd, outgrown outer flowers” of the guelder rose that make it extremely fascinating from the point of view of evolutionary biology. These outer flowers, Allen writes, look like the petals of another plant “deftly arranged or pinned by some mischievous boy” onto the plant in order “to hoax the unwary botanist with a cunning deception.”[^14]
 <param ve-entity eid="Q840400">
