@@ -216,8 +216,8 @@ Phillips, Henry. n.d. _Floral Emblems_ (London: Saunders and Otley). https://www
 [^33]: https://www.gutenberg.org/ebooks/68486.
 [^34]: Parker, Harbison. “‘The Twa Sisters.’ Going Which Way?” _The Journal of American Folklore_ 64, no. 254 (1951): 347–360. https://doi.org/10.2307/537003.
 [^35]: Zabuzhko, Oksana. “Oh Sister, My Sister.” Your Ad Could Go Here, translated by Halyna Hryn (Seattle: Amazon Crossing, 2018).
-[^36] Rikoun, Polina. “Confronting ‘The Elder Brother’: Ukrainian-Russian Relations in Oleksandr Ilchenko’s Novel ‘Kozats’komu Rodu Nema Perevodu,’” _The Slavic and East European Journal_ vol. 56, no. 1 (2012): 71–90. https://www.jstor.org/stable/41698441.
-[^37] Oleksandr, Ilʹchenko. _Kozat︠S︡ʹkomu Rodu Nema Perevodu: Abo Zh, mamaĭ i chuz︠h︡a︡ molodyt︠s︡i︠a︡: Ukraĭnsʹkyĭ Khymernyĭ roman Z Narodnykh UST_. Translated by Arsenii Ostrovskii and Georgii Shipov (Moscow: Khudozhestvennaia Literatura, 1970). 
+[^36]: Rikoun, Polina. “Confronting ‘The Elder Brother’: Ukrainian-Russian Relations in Oleksandr Ilchenko’s Novel ‘Kozats’komu Rodu Nema Perevodu,’” _The Slavic and East European Journal_ vol. 56, no. 1 (2012): 71–90. https://www.jstor.org/stable/41698441.
+[^37]: Oleksandr, Ilʹchenko. _Kozat︠S︡ʹkomu Rodu Nema Perevodu: Abo Zh, mamaĭ i chuz︠h︡a︡ molodyt︠s︡i︠a︡: Ukraĭnsʹkyĭ Khymernyĭ roman Z Narodnykh UST_. Translated by Arsenii Ostrovskii and Georgii Shipov (Moscow: Khudozhestvennaia Literatura, 1970). 
 [^38]: Prokhorov, Vadim, _Russian Folk Songs : Musical Genres and History_ (Lanham, Md.: Scarecrow Press, 2002). http://archive.org/details/russianfolksongs0000prok.
 [^39]: “Kalina. Symbolism and Reference in Folklore Калина. Символика и Упоминание в Фольклоре,” accessed August 5, 2023. https://w-book.diary.ru/p183442904.htm?oam.
 [^40]: “Презентация По Литературе Повесть В.М. Шукшина «Калина Красная» в 9 Классе,” accessed August 5, 2023. https://znanio.ru/media/prezentatsiya_po_literature_povest_vm_shukshina_kalina_krasnaya_v_9_klasse-267761.
